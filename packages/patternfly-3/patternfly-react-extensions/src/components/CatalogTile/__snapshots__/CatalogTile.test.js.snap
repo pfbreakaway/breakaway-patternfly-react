@@ -1,0 +1,365 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatalogTile href renders properly 1`] = `
+<a
+  class="catalog-tile-pf featured"
+  href="http://patternfly.org"
+  id="test-href"
+>
+  <div
+    class="catalog-tile-pf-header"
+  >
+    <img
+      alt=""
+      class="catalog-tile-pf-icon"
+      src="<PatternFly Brand Image here>"
+    />
+  </div>
+  <div
+    class="catalog-tile-pf-body"
+  >
+    <div
+      class="catalog-tile-pf-title"
+    >
+      Patternfly
+    </div>
+    <div
+      class="catalog-tile-pf-subtitle"
+    >
+      Provided by Red Hat
+    </div>
+    <div
+      class="catalog-tile-pf-description"
+    >
+      1234567890123
+    </div>
+  </div>
+</a>
+`;
+
+exports[`CatalogTile onClick behaves properly 1`] = `
+<a
+  class="catalog-tile-pf featured test-click-class"
+  href="#"
+  id="test-on-click"
+>
+  <div
+    class="catalog-tile-pf-header"
+  >
+    <img
+      alt=""
+      class="catalog-tile-pf-icon"
+      src="<PatternFly Brand Image here>"
+    />
+  </div>
+  <div
+    class="catalog-tile-pf-body"
+  >
+    <div
+      class="catalog-tile-pf-title"
+    >
+      Patternfly
+    </div>
+    <div
+      class="catalog-tile-pf-subtitle"
+    >
+      Provided by Red Hat
+    </div>
+    <div
+      class="catalog-tile-pf-description"
+    >
+      1234567890123
+    </div>
+  </div>
+</a>
+`;
+
+exports[`CatalogTile renders properly 1`] = `
+<div>
+  <div
+    class="catalog-tile-pf featured"
+    id="single-badge-test"
+  >
+    <div
+      class="catalog-tile-pf-header"
+    >
+      <img
+        alt=""
+        class="catalog-tile-pf-icon"
+        src="<PatternFly Brand Image here>"
+      />
+      <div
+        class="catalog-tile-pf-badge-container"
+      >
+        <span>
+          <span
+            class="catalog-tile-pf-badge"
+          >
+            <span
+              aria-hidden="true"
+              class="fa fa-cog"
+            />
+            <span
+              class="sr-only"
+            >
+              Certified
+            </span>
+          </span>
+        </span>
+        <span>
+          <span
+            class="catalog-tile-pf-badge"
+          >
+            <span
+              aria-hidden="true"
+              class="fa fa-cog"
+            />
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="catalog-tile-pf-body"
+    >
+      <div
+        class="catalog-tile-pf-title"
+      >
+        Patternfly
+      </div>
+      <div
+        class="catalog-tile-pf-subtitle"
+      >
+        <span>
+          Provided by 
+          <a
+            href="redhat.com"
+          >
+            Red Hat
+          </a>
+        </span>
+      </div>
+      <div
+        class="catalog-tile-pf-description"
+      >
+        A community of designers and developers collaborating to build a UI framework for enterprise web applications.
+      </div>
+    </div>
+  </div>
+  <div
+    class="catalog-tile-pf"
+    id="multi-badge-test"
+  >
+    <div
+      class="catalog-tile-pf-header"
+    >
+      <img
+        alt=""
+        class="catalog-tile-pf-icon"
+        src="<GitHub Brand Image here>"
+      />
+      <div
+        class="catalog-tile-pf-badge-container"
+      >
+        <span>
+          <span
+            class="catalog-tile-pf-badge"
+          >
+            <span
+              aria-hidden="true"
+              class="fa fa-cog"
+            />
+            <span
+              class="sr-only"
+            >
+              Certified
+            </span>
+          </span>
+        </span>
+        <span>
+          <span
+            class="catalog-tile-pf-badge"
+          >
+            <span
+              aria-hidden="true"
+              class="pficon pficon-ok"
+            />
+            <span
+              class="sr-only"
+            >
+              USDA Approved
+            </span>
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="catalog-tile-pf-body"
+    >
+      <div
+        class="catalog-tile-pf-title"
+      >
+        GitHub Desktop
+      </div>
+      <div
+        class="catalog-tile-pf-subtitle"
+      >
+        provided by GitHub
+      </div>
+      <div
+        class="catalog-tile-pf-description"
+      >
+        Simple collaboration from your desktop.
+      </div>
+    </div>
+  </div>
+  <div
+    class="catalog-tile-pf featured"
+    id="long-description-test"
+  >
+    <div
+      class="catalog-tile-pf-header"
+    >
+      <img
+        alt=""
+        class="catalog-tile-pf-icon"
+        src="<PatternFly Brand Image here>"
+      />
+      <div
+        class="catalog-tile-pf-badge-container"
+      >
+        <span>
+          <span
+            class="catalog-tile-pf-badge"
+          >
+            <span
+              aria-hidden="true"
+              class="fa fa-cog"
+            />
+            <span
+              class="sr-only"
+            >
+              Certified
+            </span>
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="catalog-tile-pf-body"
+    >
+      <div
+        class="catalog-tile-pf-title"
+      >
+        Patternfly
+      </div>
+      <div
+        class="catalog-tile-pf-subtitle"
+      >
+        <span>
+          Provided by 
+          <a
+            href="redhat.com"
+          >
+            Red Hat
+          </a>
+        </span>
+      </div>
+      <div
+        class="catalog-tile-pf-description"
+      >
+        This is a very long description that should be truncated after 112 characters. 112 is the default but can be …
+      </div>
+    </div>
+  </div>
+  <div
+    class="catalog-tile-pf"
+    id="test-iconClass"
+  >
+    <div
+      class="catalog-tile-pf-header"
+    >
+      <span
+        class="catalog-tile-pf-icon fa fa-codepen"
+      />
+      <div
+        class="catalog-tile-pf-badge-container"
+      >
+        <span>
+          <span
+            class="catalog-tile-pf-badge"
+          >
+            <span
+              aria-hidden="true"
+              class="pficon pficon-ok"
+            />
+            <span
+              class="sr-only"
+            >
+              USDA Approved
+            </span>
+          </span>
+        </span>
+      </div>
+    </div>
+    <div
+      class="catalog-tile-pf-body"
+    >
+      <div
+        class="catalog-tile-pf-title"
+      >
+        CodePen
+      </div>
+      <div
+        class="catalog-tile-pf-subtitle"
+      >
+        provided by CodePen
+      </div>
+      <div
+        class="catalog-tile-pf-description"
+      >
+        An online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets.
+      </div>
+    </div>
+  </div>
+  <div
+    class="catalog-tile-pf featured"
+    id="test-custom-truncation"
+  >
+    <div
+      class="catalog-tile-pf-header"
+    >
+      <img
+        alt=""
+        class="catalog-tile-pf-icon"
+        src="<PatternFly Brand Image here>"
+      />
+    </div>
+    <div
+      class="catalog-tile-pf-body"
+    >
+      <div
+        class="catalog-tile-pf-title"
+      >
+        Patternfly
+      </div>
+      <div
+        class="catalog-tile-pf-subtitle"
+      >
+        <span>
+          Provided by 
+          <a
+            href="redhat.com"
+          >
+            Red Hat
+          </a>
+        </span>
+      </div>
+      <div
+        class="catalog-tile-pf-description"
+      >
+        truncated
+      </div>
+    </div>
+  </div>
+</div>
+`;

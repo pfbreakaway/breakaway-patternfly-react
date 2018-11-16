@@ -1,0 +1,32 @@
+node_modules
+dist
+.out
+/.changelog
+.DS_Store
+coverage
+public/
+.cache
+.tmp
+packages/react-icons/src/icons/
+packages/react-icons/src/index.js
+packages/react-icons/src/index.d.ts
+
+# package managers
+yarn-error.log
+lerna-debug.log
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json

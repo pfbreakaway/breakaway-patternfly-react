@@ -1,0 +1,151 @@
+{
+  "name": "@breakaway/react-lerna-root",
+  "version": "0.0.0",
+  "private": true,
+  "description": "This library provides a set of common React components for use with the PatternFly reference implementation.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patternfly/patternfly-react.git"
+  },
+  "engines": {
+    "node": ">=8.9.0",
+    "npm": ">=5.5.1",
+    "yarn": ">=1.6.0"
+  },
+  "keywords": [
+    "react",
+    "patternfly"
+  ],
+  "author": "Red Hat",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/patternfly/patternfly-react/issues"
+  },
+  "homepage": "https://github.com/patternfly/patternfly-react#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^7.1.2",
+    "change-case": "^3.0.2",
+    "commitizen": "^3.0.1",
+    "commitlint-config-cz": "^0.10.1",
+    "concurrently": "^3.5.1",
+    "conventional-changelog-cli": "^2.0.5",
+    "coveralls": "^3.0.0",
+    "cross-env": "^5.1.4",
+    "cz-conventional-changelog": "^2.1.0",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16.3": "^1.2.0",
+    "enzyme-to-json": "^3.3.3",
+    "fs-extra": "^6.0.1",
+    "glob": "^7.1.2",
+    "husky": "^0.14.3",
+    "istanbul-api": "1.3.1",
+    "istanbul-reports": "1.3.0",
+    "jest": "^23.6.0",
+    "jest-cli": "^23.6.0",
+    "lerna": "^2.11.0",
+    "lerna-changelog": "^0.8.1",
+    "npmlog": "^4.1.2",
+    "plop": "^2.0.0",
+    "prettier": "^1.14.2",
+    "prettier-eslint": "^8.8.1",
+    "prop-types": "^15.6.1",
+    "raf": "^3.4.0",
+    "react": "^16.3.0",
+    "react-dev-utils": "^5.0.0",
+    "react-dom": "^16.3.0",
+    "travis-deploy-once": "^4.4.1"
+  },
+  "sassIncludes": {
+    "patternfly": "node_modules/patternfly/dist/sass",
+    "bootstrap": "node_modules/bootstrap-sass/assets/stylesheets",
+    "fontAwesome": "node_modules/font-awesome-sass/assets/stylesheets"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "build": "yarn clean:build && lerna run prebuild --parallel && lerna run build --parallel && lerna run postbuild",
+    "build:docs": "yarn build && lerna run docbuild --scope=@breakaway/react-docs --stream",
+    "build:prdocs": "lerna run pr-build --scope=@breakaway/react-docs --stream",
+    "clean": "yarn clean:build",
+    "clean:build": "rm -rf packages/*/dist && rm -rf packages/patternfly-?/*/dist",
+    "commit": "git-cz",
+    "commitmsg": "commitlint -e",
+    "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
+    "generate": "yarn plop",
+    "lerna": "lerna",
+    "lerna:publish": "lerna publish --yes",
+    "lerna:changelog": "lerna-changelog --from=`git rev-list --max-parents=0 HEAD` > CHANGELOG.md && git add CHANGELOG.md",
+    "lint": "lerna run lint --parallel",
+    "lint:fix": "lerna run lint:fix --parallel",
+    "prettier": "prettier --write 'storybook/**/*.js' 'packages/**/*.js' 'scripts/**/*.js'",
+    "start": "yarn start:pf3",
+    "start:pf3": "concurrently \"yarn storybook:run\" \"yarn storybook:openurl\"",
+    "start:pf4": "lerna run develop --scope=@breakaway/react-docs --stream",
+    "storybook:build": "build-storybook -c storybook -o .out",
+    "storybook:deploy": "storybook-to-ghpages '--script=storybook:build'",
+    "storybook:openurl": "node ./storybook/openBrowser.js",
+    "storybook:run": "start-storybook -c storybook -p 6006",
+    "storybook": "yarn storybook:run",
+    "test": "yarn lint && jest",
+    "test:current": "jest --watch",
+    "test:watch": "jest --watchAll",
+    "travis-deploy-once": "travis-deploy-once"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "clearMocks": true,
+    "coverageReporters": [
+      "lcov"
+    ],
+    "modulePathIgnorePatterns": [
+      "<rootDir>/packages/*.*/dist/*.*",
+      "<rootDir>/packages/*.*/public/*.*",
+      "<rootDir>/packages/*.*/.cache/*.*"
+    ],
+    "coveragePathIgnorePatterns": [
+      "<rootDir>/packages/*.*/dist/*.*",
+      "<rootDir>/packages/*.*/examples/*.*",
+      "<rootDir>/packages/*.docs.*",
+      "<rootDir>/packages/react-docs/*.*"
+    ],
+    "setupFiles": [
+      "./test.env.js"
+    ],
+    "snapshotSerializers": [
+      "enzyme-to-json/serializer",
+      "<rootDir>/packages/patternfly-4/react-core/build/snapshot-serializer"
+    ],
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest",
+      "\\.(css)$": "<rootDir>/packages/patternfly-4/react-styles/jest-transform.js"
+    },
+    "testPathIgnorePatterns": [
+      "<rootDir>/scripts/generators/"
+    ],
+    "transformIgnorePatterns": [
+      "node_modules/(?!@breakaway|@novnc)"
+    ],
+    "roots": [
+      "<rootDir>/packages",
+      "<rootDir>/scripts"
+    ],
+    "testURL": "http://localhost"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    },
+    "access": "public"
+  },
+  "workspaces": {
+    "packages": [
+      "packages/**"
+    ],
+    "nohoist": [
+      "**/gatsby*",
+      "@breakaway/react-docs/react*"
+    ]
+  },
+  "resolutions": {
+    "cssom": "0.3.4"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "breakaway-patternfly-react-extensions",
+  "version": "2.13.0",
+  "private": false,
+  "description": "This library provides an extended set of React components for use with the PatternFly reference implementation.",
+  "main": "dist/js/index.js",
+  "module": "dist/esm/index.js",
+  "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patternfly/patternfly-react.git"
+  },
+  "keywords": [
+    "react",
+    "patternfly"
+  ],
+  "author": "Red Hat",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/patternfly/patternfly-react/issues"
+  },
+  "homepage": "https://github.com/patternfly/patternfly-react/blob/master/packages/patternfly-react-extensions/README.md",
+  "sassIncludes": {
+    "patternfly": "../../../node_modules/patternfly/dist/sass",
+    "bootstrap": "../../../node_modules/bootstrap-sass/assets/stylesheets",
+    "fontAwesome": "../../../node_modules/font-awesome-sass/assets/stylesheets"
+  },
+  "scripts": {
+    "prebuild": "yarn build:sass && yarn build:less",
+    "build": "yarn build:babel",
+    "build:babel": "concurrently \"yarn build:babel:cjs\" \"yarn build:babel:esm\"",
+    "build:babel:cjs": "cross-env BABEL_ENV=production:cjs babel src --out-dir dist/js",
+    "build:babel:esm": "cross-env BABEL_ENV=production:esm babel src --out-dir dist/esm",
+    "build:less": "mkdir -p dist/less && cp -r less/* dist/less",
+    "build:sass": "mkdir -p dist/sass && cp -r sass/patternfly-react-extensions/* dist/sass && node-sass --output-style compressed --include-path sass --include-path $npm_package_sassIncludes_patternfly --include-path $npm_package_sassIncludes_bootstrap --include-path $npm_package_sassIncludes_fontAwesome -o dist/css sass/patternfly-react-extensions.scss"
+  },
+  "dependencies": {
+    "breakjs": "^1.0.0",
+    "classnames": "^2.2.5",
+    "css-element-queries": "^1.0.1",
+    "patternfly": "^3.58.0",
+    "patternfly-react": "^2.24.0",
+    "react-virtualized": "9.x"
+  },
+  "peerDependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
