@@ -1,13 +1,16 @@
 {
   "lerna": "2.11.0",
-  "nohoist": ["gatsby*", "babel*"],
+  "nohoist": [
+    "gatsby*",
+    "babel*"
+  ],
   "npmClient": "yarn",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "changelog": {
-    "repo": "patternfly/patternfly-react",
+    "repo": "pfbreakaway/breakaway-patternfly-react",
     "cacheDir": ".changelog",
     "nextVersion": "Change Log",
     "labels": {
