@@ -14,12 +14,12 @@
     "cacheDir": ".changelog",
     "nextVersion": "Change Log",
     "labels": {
-      "breaking change :boom:": ":boom: Breaking Change",
-      "enhancement :rocket:": ":rocket: New Feature",
-      "bug :bug:": ":bug: Bug Fix",
-      "css :nail_care:": ":nail_care: CSS",
-      "documentation :memo:": ":memo: Documentation",
-      "chore :house:": ":house: Internal"
+      "PR: breaking change :boom:": ":boom: Breaking Change",
+      "PR: new feature :rocket:": ":rocket: New Feature",
+      "PR: bug fix :bug:": ":bug: Bug Fix",
+      "PR: css :nail_care:": ":nail_care: CSS",
+      "PR: documentation :memo:": ":memo: Documentation",
+      "PR: internal :house:": ":house: Internal"
     }
   },
   "command": {
