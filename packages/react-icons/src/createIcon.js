@@ -11,7 +11,7 @@ const createIcon = iconDefinition => {
     static propTypes = propTypes;
     static defaultProps = defaultProps;
 
-    id = `icon-title-${currentId++}`;
+    id = `icon-titl-${currentId++}`;
 
     render() {
       const { size, color, title, ...props } = this.props;
