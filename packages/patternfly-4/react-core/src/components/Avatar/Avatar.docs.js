@@ -10,7 +10,7 @@ export default {
     {
       component: Simple,
       displayName: 'SimpleAvatar',
-      title: 'Simple Avatar'
+      title: 'Simple Avatar Test'
     }
   ]
 };
