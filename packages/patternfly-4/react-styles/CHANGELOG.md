@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="2.3.2"></a>
+## [2.3.2](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-styles@2.3.1...@breakaway/react-styles@2.3.2) (2018-11-26)
+
+
+### Bug Fixes
+
+* **release:** test releases with readme and icon updates ([472bab2](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/472bab2))
+
+
+
+
 <a name="2.3.1"></a>
 ## 2.3.1 (2018-11-26)
 
