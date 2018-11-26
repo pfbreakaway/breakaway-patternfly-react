@@ -139,7 +139,11 @@
   },
   "workspaces": {
     "packages": [
-      "packages/**"
+      "packages/patternfly-3/**",
+      "packages/patternfly-4/**",
+      "packages/eslint-plugin-patternfly-react/*",
+      "packages/react-codemods/*",
+      "packages/react-icons/*"
     ],
     "nohoist": [
       "**/gatsby*",

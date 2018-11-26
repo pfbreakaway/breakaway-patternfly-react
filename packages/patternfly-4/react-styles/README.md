@@ -2,7 +2,7 @@
 Library that provides CSS-in-JS capabilites along with build plugins to convert raw css imports to a consumable form for JS. This approach is very similar to how [css-modules][css-modules] works.
 
 ## Getting Started
-This library has 3 main parts.
+This library has 3 main parts
 1. A [babel][babel] plugin to transform css imports into a JS import
 1. A `StyleSheet` helper that parses raw css and returns a JS object to reference classnames.
 1. A `css` helper function to combine string CSS classes and any returned from the `StyleSheet`.  It also takes care of doing the CSS injection.
