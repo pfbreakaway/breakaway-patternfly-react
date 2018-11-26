@@ -23,16 +23,10 @@
   },
   "homepage": "https://github.com/patternfly/patternfly-react#readme",
   "devDependencies": {
-    "@commitlint/cli": "^7.1.2",
-    "@commitlint/config-conventional": "^7.1.2",
     "change-case": "^3.0.2",
-    "commitizen": "^3.0.1",
-    "commitlint-config-cz": "^0.10.1",
     "concurrently": "^3.5.1",
-    "conventional-changelog-cli": "^2.0.5",
     "coveralls": "^3.0.0",
     "cross-env": "^5.1.4",
-    "cz-conventional-changelog": "^2.1.0",
     "enzyme": "^3.3.0",
     "enzyme-adapter-react-16.3": "^1.2.0",
     "enzyme-to-json": "^3.3.3",
@@ -61,11 +55,6 @@
     "bootstrap": "node_modules/bootstrap-sass/assets/stylesheets",
     "fontAwesome": "node_modules/font-awesome-sass/assets/stylesheets"
   },
-  "commitlint": {
-    "extends": [
-      "@commitlint/config-conventional"
-    ]
-  },
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "yarn clean:build && lerna run prebuild --parallel && lerna run build --parallel && lerna run postbuild",
@@ -73,8 +62,6 @@
     "build:prdocs": "lerna run pr-build --scope=@breakaway/react-docs --stream",
     "clean": "yarn clean:build",
     "clean:build": "rm -rf packages/*/dist && rm -rf packages/patternfly-?/*/dist",
-    "commit": "git-cz",
-    "commitmsg": "commitlint -e $GIT_PARAMS",
     "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
     "generate": "yarn plop",
     "lerna": "lerna",
@@ -138,9 +125,6 @@
     "testURL": "http://localhost"
   },
   "config": {
-    "commitizen": {
-      "path": "node_modules/cz-conventional-changelog"
-    },
     "access": "public"
   },
   "workspaces": {
