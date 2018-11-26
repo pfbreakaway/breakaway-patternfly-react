@@ -1,6 +1,6 @@
 /* eslint-disable import/no-extraneous-dependencies */
 import React from 'react';
-import { Gallery, GalleryItem } from '@patternfly/react-core';
+import { Gallery, GalleryItem } from '@breakaway/react-core';
 
 class SimpleGallery extends React.Component {
   render() {

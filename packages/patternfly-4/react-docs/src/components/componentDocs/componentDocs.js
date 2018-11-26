@@ -1,10 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styles from './componentDocs.styles';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 import Example from '../example';
 import Content from '../content';
-import { Title } from '@patternfly/react-core';
+import { Title } from '@breakaway/react-core';
 import PropsTable from '../propsTable';
 import Section from '../section';
 

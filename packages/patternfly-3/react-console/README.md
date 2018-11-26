@@ -1,4 +1,4 @@
-# @patternfly/react-console
+# @breakaway/react-console
 
 This package provides VncConsole, SerialConsole and DesktopViewer React components
 to be used alongside patternfly-react to access virtual machine or server consoles.
@@ -6,19 +6,19 @@ to be used alongside patternfly-react to access virtual machine or server consol
 ### Installing
 
 ```
-yarn add @patternfly/react-console
+yarn add @breakaway/react-console
 ```
 
 or
 
 ```
-npm install @patternfly/react-console --save
+npm install @breakaway/react-console --save
 ```
 
 ### Usage
 
 ```javascript
-import { VncConsole, SerialConsole } from '@patternfly/react-console';
+import { VncConsole, SerialConsole } from '@breakaway/react-console';
 ```
 
 #### Styling:
@@ -30,7 +30,7 @@ Example with LESS:
 @import "~patternfly/dist/less/variables";
 @import "~patternfly-react/dist/less/patternfly-react.less";
 @import "~xterm/dist/xterm.css";
-@import "~@patternfly/react-console/dist/less/console.less";
+@import "~@breakaway/react-console/dist/less/console.less";
 ```
 
 ### Building

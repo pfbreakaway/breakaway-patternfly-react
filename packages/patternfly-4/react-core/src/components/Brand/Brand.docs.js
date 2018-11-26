@@ -1,4 +1,4 @@
-import { Brand } from '@patternfly/react-core';
+import { Brand } from '@breakaway/react-core';
 import Simple from './examples/SimpleBrand';
 
 export default {

@@ -1,15 +1,15 @@
-# @patternfly/react-tokens
+# @breakaway/react-tokens
 
 ## Installation
 
 ```bash
-yarn add @patternfly/react-tokens
+yarn add @breakaway/react-tokens
 ```
 
 or
 
 ```bash
-npm install --save @patternfly/react-tokens
+npm install --save @breakaway/react-tokens
 ```
 
 ## Usage
@@ -20,7 +20,7 @@ All Tokens and their corresponding values can be viewed on the
 #### Import tokens
 
 ```js
-import { global_BackgroundColor_100 } from '@patternfly/react-tokens';
+import { global_BackgroundColor_100 } from '@breakaway/react-tokens';
 ```
 
 #### Each token as three properties
@@ -30,7 +30,7 @@ import { global_BackgroundColor_100 } from '@patternfly/react-tokens';
 - `var`: The property name wrapped in `var()`.
 
 ```js
-import { global_BackgroundColor_100 } from '@patternfly/react-tokens';
+import { global_BackgroundColor_100 } from '@breakaway/react-tokens';
 
 global_BackgroundColor_100.name === '--pf-global--BackgroundColor--100'; //true
 global_BackgroundColor_100.value === '#fff'; // true

@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import ModalContent from './ModalContent';
 import { canUseDOM } from 'exenv';
 import { KEY_CODES } from '../../internal/constants';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 import styles from '@patternfly/patternfly-next/components/Backdrop/backdrop.css';
 
 const propTypes = {

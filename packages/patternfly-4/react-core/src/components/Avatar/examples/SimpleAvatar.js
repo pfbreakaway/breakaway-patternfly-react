@@ -1,5 +1,5 @@
 import React from 'react';
-import { Avatar } from '@patternfly/react-core';
+import { Avatar } from '@breakaway/react-core';
 import avatarImg from './img_avatar.png';
 
 class SimpleAvatar extends React.Component {

@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styles from '@patternfly/patternfly-next/components/Form/form.css';
-import { css, getModifier } from '@patternfly/react-styles';
+import { css, getModifier } from '@breakaway/react-styles';
 import { FormContext } from '../Form/FormContext';
 
 const propTypes = {

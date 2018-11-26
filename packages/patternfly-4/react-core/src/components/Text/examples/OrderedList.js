@@ -1,5 +1,5 @@
 import React from 'react';
-import { TextContent, TextList, TextListVariants, TextListItem } from '@patternfly/react-core';
+import { TextContent, TextList, TextListVariants, TextListItem } from '@breakaway/react-core';
 
 class OrderedList extends React.Component {
   render() {

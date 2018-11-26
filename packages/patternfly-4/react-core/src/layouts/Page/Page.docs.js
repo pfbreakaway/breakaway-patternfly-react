@@ -1,4 +1,4 @@
-import { Page, PageHeader, PageSidebar, PageSection, PageSectionVariants } from '@patternfly/react-core';
+import { Page, PageHeader, PageSidebar, PageSection, PageSectionVariants } from '@breakaway/react-core';
 import VerticalPage from './examples/VerticalPage';
 import HorizontalPage from './examples/HorizontalPage';
 import getContainerProps from './examples/common/getContainerProps';

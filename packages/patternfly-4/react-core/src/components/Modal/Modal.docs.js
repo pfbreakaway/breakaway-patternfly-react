@@ -1,4 +1,4 @@
-import { Modal } from '@patternfly/react-core';
+import { Modal } from '@breakaway/react-core';
 import Simple from './examples/SimpleModal';
 import Large from './examples/LargeModal';
 

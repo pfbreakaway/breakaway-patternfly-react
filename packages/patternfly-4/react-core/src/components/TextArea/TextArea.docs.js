@@ -1,4 +1,4 @@
-import { TextArea } from '@patternfly/react-core';
+import { TextArea } from '@breakaway/react-core';
 import Simple from './examples/SimpleTextArea';
 import Invalid from './examples/InvalidTextArea';
 

@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styles from '@patternfly/patternfly-next/layouts/Split/split.css';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 
 const propTypes = {
   /** Flag indicating if this Split Layout item contains the primary content */

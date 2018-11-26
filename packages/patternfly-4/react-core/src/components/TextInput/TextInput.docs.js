@@ -1,4 +1,4 @@
-import { TextInput } from '@patternfly/react-core';
+import { TextInput } from '@breakaway/react-core';
 import Simple from './examples/SimpleTextInput';
 import Disabled from './examples/DisabledTextInput';
 import ReadOnly from './examples/ReadOnlyTextInput';

@@ -1,8 +1,8 @@
 import React, { Fragment } from 'react';
 import progressStyle from '@patternfly/patternfly-next/components/Progress/progress.css';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 import PropTypes from 'prop-types';
-import { CheckCircleIcon, TimesCircleIcon } from '@patternfly/react-icons';
+import { CheckCircleIcon, TimesCircleIcon } from '@breakaway/react-icons';
 import ProgressBar from './ProgressBar';
 
 export const ProgressMeasureLocation = {

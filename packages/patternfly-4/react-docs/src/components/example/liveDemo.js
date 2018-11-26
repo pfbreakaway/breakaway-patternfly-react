@@ -1,12 +1,12 @@
 import React from 'react';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 import exampleStyles from './example.styles';
 import styles from './liveDemo.styles';
 import PropTypes from 'prop-types';
-// import * as ChartComponents from '@patternfly/react-charts';
-import * as CoreComponents from '@patternfly/react-core';
-import * as CoreIcons from '@patternfly/react-icons';
-// import * as StyledSystemComponents from '@patternfly/react-styled-system';
+// import * as ChartComponents from '@breakaway/react-charts';
+import * as CoreComponents from '@breakaway/react-core';
+import * as CoreIcons from '@breakaway/react-icons';
+// import * as StyledSystemComponents from '@breakaway/react-styled-system';
 import { LiveProvider, LiveEditor, LiveError, LivePreview, withLive } from 'react-live';
 import { transform } from 'babel-standalone';
 import Section from '../section';

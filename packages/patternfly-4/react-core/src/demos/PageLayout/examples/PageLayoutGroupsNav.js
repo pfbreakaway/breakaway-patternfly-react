@@ -24,12 +24,12 @@ import {
   Toolbar,
   ToolbarGroup,
   ToolbarItem
-} from '@patternfly/react-core';
-import { global_breakpoint_md as breakpointMd } from '@patternfly/react-tokens';
+} from '@breakaway/react-core';
+import { global_breakpoint_md as breakpointMd } from '@breakaway/react-tokens';
 import accessibleStyles from '@patternfly/patternfly-next/utilities/Accessibility/accessibility.css';
 import spacingStyles from '@patternfly/patternfly-next/utilities/Spacing/spacing.css';
-import { css } from '@patternfly/react-styles';
-import { BellIcon, CogIcon } from '@patternfly/react-icons';
+import { css } from '@breakaway/react-styles';
+import { BellIcon, CogIcon } from '@breakaway/react-icons';
 import brandImg from './l_pf-reverse-164x11.png';
 import avatarImg from './img_avatar.png';
 

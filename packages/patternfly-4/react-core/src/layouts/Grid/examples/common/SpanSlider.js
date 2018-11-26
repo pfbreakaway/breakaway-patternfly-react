@@ -1,8 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 import styles from './SpanSlider.styles';
-import { Grid, GridItem } from '@patternfly/react-core';
+import { Grid, GridItem } from '@breakaway/react-core';
 
 const propTypes = {
   id: PropTypes.string.isRequired,

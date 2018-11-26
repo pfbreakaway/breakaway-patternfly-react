@@ -1,4 +1,4 @@
-import { List, ListItem } from '@patternfly/react-core';
+import { List, ListItem } from '@breakaway/react-core';
 import Simple from './examples/SimpleList';
 import Inline from './examples/InlineList';
 import Grid from './examples/GridList';

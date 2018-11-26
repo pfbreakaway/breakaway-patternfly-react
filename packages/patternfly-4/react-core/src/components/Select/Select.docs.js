@@ -1,4 +1,4 @@
-import { Select, SelectOption, SelectOptionGroup } from '@patternfly/react-core';
+import { Select, SelectOption, SelectOptionGroup } from '@breakaway/react-core';
 import SelectInput from './examples/SelectInput';
 import SelectInputDisabled from './examples/SelectInputDisabled';
 import SelectInputGrouped from './examples/SelectInputGrouped';

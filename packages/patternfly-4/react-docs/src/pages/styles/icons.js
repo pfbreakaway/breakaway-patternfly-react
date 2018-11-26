@@ -1,9 +1,9 @@
 import React from 'react';
 import Content from '../../components/content';
-import { Title, Grid, GridItem } from '@patternfly/react-core';
-import * as icons from '@patternfly/react-icons';
-import { css, StyleSheet } from '@patternfly/react-styles';
-import { global_spacer_md as spacerMd, global_FontSize_sm as labelFontSize } from '@patternfly/react-tokens';
+import { Title, Grid, GridItem } from '@breakaway/react-core';
+import * as icons from '@breakaway/react-icons';
+import { css, StyleSheet } from '@breakaway/react-styles';
+import { global_spacer_md as spacerMd, global_FontSize_sm as labelFontSize } from '@breakaway/react-tokens';
 
 const allIcons = Object.entries(icons).filter(([name]) => name.endsWith('Icon'));
 

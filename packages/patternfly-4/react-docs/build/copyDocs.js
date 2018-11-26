@@ -5,7 +5,7 @@ const fs = require('fs-extra');
 
 const dest = path.resolve(__dirname, '../dist');
 
-const packageDirs = ['react-core', 'react-charts', 'react-styled-system'];
+const packageDirs = ['react-core'];
 const moduleTypes = ['js', 'esm'];
 
 moduleTypes.forEach(moduleType => {
@@ -22,7 +22,7 @@ function copyStyles() {
   const packageDist = path.join(packageBase, 'dist', moduleType);
   const { name } = require(path.join(packageBase, 'package.json'));
 
-  const formattedName = name.replace('@patternfly/', '');
+  const formattedName = name.replace('@breakaway/', '');
   const from = path.join(packageDist);
   const to = path.join(dest, moduleType, formattedName);
   fs.copySync(from, to);
@@ -39,7 +39,7 @@ function copyPackageDocs(packageDir, moduleType) {
   const packageDist = path.join(packageBase, 'dist', moduleType);
   const { name } = require(path.join(packageBase, 'package.json'));
 
-  const formattedName = name.replace('@patternfly/', '');
+  const formattedName = name.replace('@breakaway/', '');
 
   const docFiles = glob.sync('**/*.docs.js', { cwd: packageDist });
   const exampleFiles = glob.sync('**/examples/**', { cwd: packageDist });

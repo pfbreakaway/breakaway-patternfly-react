@@ -6,7 +6,7 @@
     "production:esm": {
       "plugins": [
         [
-          "@patternfly/react-styles/babel",
+          "@breakaway/react-styles/babel",
           {
             "srcDir": "./src",
             "outDir": "./dist/esm",
@@ -18,7 +18,7 @@
     "production:cjs": {
       "plugins": [
         [
-          "@patternfly/react-styles/babel",
+          "@breakaway/react-styles/babel",
           {
             "srcDir": "./src",
             "outDir": "./dist/js",

@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from '@patternfly/patternfly-next/layouts/Page/page.css';
-import { css } from '@patternfly/react-styles';
-import { global_breakpoint_md as breakpointMd } from '@patternfly/react-tokens';
+import { css } from '@breakaway/react-styles';
+import { global_breakpoint_md as breakpointMd } from '@breakaway/react-tokens';
 import PropTypes from 'prop-types';
 import { debounce } from '../../internal/util';
 

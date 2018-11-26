@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 import flexStyles from '@patternfly/patternfly-next/utilities/Flex/flex.css';
 import displayStyles from '@patternfly/patternfly-next/utilities/Display/display.css';
 import alignmentStyles from '@patternfly/patternfly-next/utilities/Alignment/alignment.css';

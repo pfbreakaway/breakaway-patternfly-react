@@ -1,5 +1,5 @@
 import React from 'react';
-import { Alert, Button } from '@patternfly/react-core';
+import { Alert, Button } from '@breakaway/react-core';
 
 class SuccessAlert extends React.Component {
   render() {

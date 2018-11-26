@@ -1,4 +1,4 @@
-import { Switch } from '@patternfly/react-core';
+import { Switch } from '@breakaway/react-core';
 import SimpleSwitch from './examples/SimpleSwitch';
 import NoLabelSwitch from './examples/NoLabelSwitch';
 import DisabledSwitch from './examples/DisabledSwitch';

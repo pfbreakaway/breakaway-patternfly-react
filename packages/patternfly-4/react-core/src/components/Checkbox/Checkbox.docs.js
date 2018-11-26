@@ -2,7 +2,7 @@ import Controlled from './examples/ControlledCheckbox';
 import Uncontrolled from './examples/UncontrolledCheckbox';
 import Disabled from './examples/DisabledCheckbox';
 import Custom from './examples/CustomLabelCheckbox';
-import { Checkbox } from '@patternfly/react-core';
+import { Checkbox } from '@breakaway/react-core';
 
 export default {
   title: 'Checkbox',

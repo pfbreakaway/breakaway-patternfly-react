@@ -1,4 +1,4 @@
-import { Level, LevelItem } from '@patternfly/react-core';
+import { Level, LevelItem } from '@breakaway/react-core';
 import Simple from './examples/SimpleLevel';
 import WithGutters from './examples/LevelWithGutters';
 import getContainerProps from './examples/common/getContainerProps';

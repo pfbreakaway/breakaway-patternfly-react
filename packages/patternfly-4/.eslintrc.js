@@ -36,7 +36,7 @@ module.exports = {
               path.resolve(__dirname, '../../node_modules')
             ],
             alias: {
-              '@patternfly/react-icons': path.resolve(__dirname, '../react-icons/src')
+              '@breakaway/react-icons': path.resolve(__dirname, '../react-icons/src')
             }
           }
         }

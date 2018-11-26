@@ -13,7 +13,7 @@ exports.modifyWebpackConfig = ({ config, stage }) => {
   config
     .loader('pf-styles', {
       test: pfStylesTest,
-      loaders: ['babel-loader', require.resolve('@patternfly/react-styles/loader')]
+      loaders: ['babel-loader', require.resolve('@breakaway/react-styles/loader')]
     })
     .loader('css', {
       ...oldCSSLoader.config,
@@ -23,10 +23,8 @@ exports.modifyWebpackConfig = ({ config, stage }) => {
   config.merge({
     resolve: {
       alias: {
-        '@patternfly/react-charts': path.resolve(__dirname, '../react-charts/src'),
-        '@patternfly/react-core': path.resolve(__dirname, '../react-core/src'),
-        '@patternfly/react-styles': path.resolve(__dirname, '../react-styles/src'),
-        '@patternfly/react-styled-system': path.resolve(__dirname, '../react-styled-system/src'),
+        '@breakaway/react-core': path.resolve(__dirname, '../react-core/src'),
+        '@breakaway/react-styles': path.resolve(__dirname, '../react-styles/src'),
         react: path.resolve(__dirname, 'node_modules/react'),
         'react-dom': path.resolve(__dirname, 'node_modules/react-dom')
       }
@@ -103,7 +101,7 @@ exports.createPages = async ({ boundActionCreators, graphql }) => {
           .join('/') === doc.relativeDirectory
       ) {
         const getPackage = pkg => doc.absolutePath.indexOf(pkg) !== -1 && pkg;
-        const packageDir = getPackage('react-core') || getPackage('react-charts') || getPackage('react-styled-system');
+        const packageDir = getPackage('react-core');
         const examplePath = `../../${packageDir}/src/${example.relativePath}`;
         rawExamples.push(`{name: '${example.name}', path: '${examplePath}', file: require('!!raw!${examplePath}')}`);
       }

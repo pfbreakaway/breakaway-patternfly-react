@@ -1,5 +1,5 @@
 import React from 'react';
-import { Form, FormGroup, TextInput, Badge } from '@patternfly/react-core';
+import { Form, FormGroup, TextInput, Badge } from '@breakaway/react-core';
 
 class VariousLabelsForm extends React.Component {
   state = {

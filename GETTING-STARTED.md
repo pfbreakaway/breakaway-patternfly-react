@@ -28,7 +28,7 @@ The `docs.js` file has the following structure
 
 ```js
 import SimpleExample from './examples/SimpleComponent';
-import { Component, ComponentSize } from '@patternfly/react-core'; // only @patternfly/react-* imports are allowed
+import { Component, ComponentSize } from '@breakaway/react-core'; // only @breakaway/react-* imports are allowed
 
 export default {
   title: 'Component', // Title to display at the top of the docs page
@@ -48,7 +48,7 @@ An example file has the following structure
 
 ```jsx
 import React from 'react';
-import { Component } from '@patternfly/react-core'; // only @patternfly/react-* imports are allowed
+import { Component } from '@breakaway/react-core'; // only @breakaway/react-* imports are allowed
 import something from './common/something'; // any directory under examples/ is ignored in page generation.
 import styles from './Example.styles.js'; // any .styles.js file under examples/ is ignored in page generation
 

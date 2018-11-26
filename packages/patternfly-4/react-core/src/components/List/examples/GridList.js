@@ -1,5 +1,5 @@
 import React from 'react';
-import { List, ListItem } from '@patternfly/react-core';
+import { List, ListItem } from '@breakaway/react-core';
 
 class GridList extends React.Component {
   render() {

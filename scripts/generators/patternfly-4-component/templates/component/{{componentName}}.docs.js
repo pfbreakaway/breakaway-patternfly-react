@@ -1,4 +1,4 @@
-import { {{componentName}} } from '@patternfly/react-core';
+import { {{componentName}} } from '@breakaway/react-core';
 import Simple from './examples/Simple{{componentName}}';
 
 export default {

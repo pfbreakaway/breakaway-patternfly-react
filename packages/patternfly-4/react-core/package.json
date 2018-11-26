@@ -25,8 +25,8 @@
   },
   "homepage": "https://github.com/patternfly/patternfly-react#readme",
   "dependencies": {
-    "@patternfly/react-icons": "^2.7.1",
-    "@patternfly/react-styles": "^2.3.0",
+    "@breakaway/react-icons": "^2.7.1",
+    "@breakaway/react-styles": "^2.3.0",
     "exenv": "^1.2.2",
     "focus-trap-react": "^4.0.1"
   },
@@ -44,7 +44,7 @@
     "postbuild": "node ./build/copyStyles.js"
   },
   "optionalDependencies": {
-    "@patternfly/react-tokens": "^1.0.0"
+    "@breakaway/react-tokens": "^1.0.0"
   },
   "devDependencies": {
     "@patternfly/patternfly-next": "1.0.69",

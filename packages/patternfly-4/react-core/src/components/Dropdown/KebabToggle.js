@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { EllipsisVIcon } from '@patternfly/react-icons';
+import { EllipsisVIcon } from '@breakaway/react-icons';
 import Toggle from './Toggle';
 
 const defaultAriaLabel = 'Actions';

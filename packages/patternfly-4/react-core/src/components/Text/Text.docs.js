@@ -6,7 +6,7 @@ import {
   TextListVariants,
   TextListItem,
   TextListItemVariants
-} from '@patternfly/react-core';
+} from '@breakaway/react-core';
 import BodyText from './examples/BodyText';
 import DataList from './examples/DataList';
 import Headings from './examples/Headings';

@@ -1,4 +1,4 @@
-import { Avatar } from '@patternfly/react-core';
+import { Avatar } from '@breakaway/react-core';
 import Simple from './examples/SimpleAvatar';
 
 export default {

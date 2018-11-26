@@ -1,7 +1,7 @@
 module.exports = {
   meta: {
     docs: {
-      description: 'Force default import names to match specified values',
+      description: 'Asd Force default import names to match specified values',
       category: 'Possible Errors',
       recommended: true
     },

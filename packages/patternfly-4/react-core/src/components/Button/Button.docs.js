@@ -1,4 +1,4 @@
-import { Button, ButtonVariant, ButtonType } from '@patternfly/react-core';
+import { Button, ButtonVariant, ButtonType } from '@breakaway/react-core';
 import VariantsExample from './examples/ButtonVariants';
 import BlockExample from './examples/BlockButton';
 import LinkExample from './examples/LinkButton';

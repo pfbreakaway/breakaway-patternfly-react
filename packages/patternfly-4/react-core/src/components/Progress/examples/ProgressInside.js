@@ -1,5 +1,5 @@
 import React from 'react';
-import { Progress, ProgressMeasureLocation } from '@patternfly/react-core';
+import { Progress, ProgressMeasureLocation } from '@breakaway/react-core';
 
 class ProgressInside extends React.Component {
   render() {

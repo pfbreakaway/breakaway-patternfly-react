@@ -1,4 +1,4 @@
-# @patternfly/react-icons
+# @breakaway/react-icons
 
 PatternFly 4 Icons as React Components.
 
@@ -6,7 +6,7 @@ PatternFly 4 Icons as React Components.
 
 ```jsx
 import React from 'react';
-import { TimesIcon } from '@patternfly/react-icons';
+import { TimesIcon } from '@breakaway/react-icons';
 
 const closeIcon = <TimesIcon />;
 ```

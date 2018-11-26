@@ -25,7 +25,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Features
 
-* **pf4-table:** Introduce new package [@patternfly](https://github.com/patternfly)/react-table for table implementation ([#899](https://github.com/patternfly/patternfly-react/issues/899)) ([9cee1ad](https://github.com/patternfly/patternfly-react/commit/9cee1ad))
+* **pf4-table:** Introduce new package [@breakaway](https://github.com/patternfly)/react-table for table implementation ([#899](https://github.com/patternfly/patternfly-react/issues/899)) ([9cee1ad](https://github.com/patternfly/patternfly-react/commit/9cee1ad))
 
 
 
@@ -645,7 +645,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Bug Fixes
 
-* **@patternfly/react-core:** Update the snapshot for progress bar component ([#722](https://github.com/patternfly/patternfly-react/issues/722)) ([b555243](https://github.com/patternfly/patternfly-react/commit/b555243))
+* **@breakaway/react-core:** Update the snapshot for progress bar component ([#722](https://github.com/patternfly/patternfly-react/issues/722)) ([b555243](https://github.com/patternfly/patternfly-react/commit/b555243))
 * **Alert:** Use the correct css class name for screen readers ([#713](https://github.com/patternfly/patternfly-react/issues/713)) ([9c313d2](https://github.com/patternfly/patternfly-react/commit/9c313d2)), closes [#601](https://github.com/patternfly/patternfly-react/issues/601)
 
 

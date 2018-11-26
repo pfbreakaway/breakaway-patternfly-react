@@ -1,5 +1,5 @@
 import React from 'react';
-import { Radio, Badge } from '@patternfly/react-core';
+import { Radio, Badge } from '@breakaway/react-core';
 
 class CustomLabelRadio extends React.Component {
   render() {

@@ -4,7 +4,7 @@ import css from 'css';
 import { outputFileSync } from 'fs-extra';
 import relative from 'relative';
 
-export const packageName = '@patternfly/react-styles';
+export const packageName = '@breakaway/react-styles';
 export const styleSheetToken = 'StyleSheet';
 
 export function cssToJS(cssString, useModules = false) {

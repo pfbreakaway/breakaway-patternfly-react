@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import styles from '@patternfly/patternfly-next/components/Form/form.css';
 import { ASTERISK } from '../../internal/htmlConstants';
 import { FormContext } from '../Form/FormContext';
-import { css, getModifier } from '@patternfly/react-styles';
+import { css, getModifier } from '@breakaway/react-styles';
 
 const propTypes = {
   /** Anything that can be rendered as FormGroup content. */
