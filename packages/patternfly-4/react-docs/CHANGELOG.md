@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.19.5"></a>
+## 3.19.5 (2018-11-26)
+
+
+
+
+**Note:** Version bump only for package @breakaway/react-docs
+
 <a name="3.19.4"></a>
 ## [3.19.4](https://github.com/patternfly/patternfly-react/compare/@breakaway/react-docs@3.19.2...@breakaway/react-docs@3.19.4) (2018-11-15)
 

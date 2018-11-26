@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="2.3.1"></a>
+## 2.3.1 (2018-11-26)
+
+
+
+
+**Note:** Version bump only for package @breakaway/react-styles
+
 <a name="2.3.0"></a>
 # [2.3.0](https://github.com/patternfly/patternfly-react/compare/@breakaway/react-styles@2.2.0...@breakaway/react-styles@2.3.0) (2018-10-11)
 
