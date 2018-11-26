@@ -28,6 +28,5 @@
       "conventionalCommits": true
     }
   },
-  "version": "independent",
-  "useWorkspaces": true
+  "version": "1.0.0"
 }
