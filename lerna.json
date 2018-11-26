@@ -32,5 +32,6 @@
     "packages/eslint-plugin-patternfly-react/*",
     "packages/react-codemods/*",
     "packages/react-icons/*"
-  ]
+  ],
+  "useWorkspaces": true
 }
