@@ -4,8 +4,8 @@ cache: yarn
 env:
   global:
   - ENCRYPTION_LABEL: "b601314e09dc"
-  - COMMIT_AUTHOR_EMAIL: "jdh.schuler@gmail.com"
-  - COMMIT_AUTHOR_USERNAME: "jschuler"
+  - COMMIT_AUTHOR_EMAIL: "dgutride@gmail.com"
+  - COMMIT_AUTHOR_USERNAME: "dgutride"
   - TRIGGER_REPO_SLUG: "pfbreakaway/breakaway-patternfly-react"
   - TRIGGER_REPO_BRANCH: "master"
 notifications:
