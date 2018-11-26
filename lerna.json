@@ -24,8 +24,7 @@
   },
   "command": {
     "publish": {
-      "message": "chore(release): releasing packages",
-      "conventionalCommits": true
+      "message": "chore(release): releasing packages"
     }
   },
   "version": "independent",
