@@ -1,5 +1,5 @@
 import React from 'react';
-import { TextContent, TextList, TextListVariants, TextListItem, TextListItemVariants } from '@patternfly/react-core';
+import { TextContent, TextList, TextListVariants, TextListItem, TextListItemVariants } from '@breakaway/react-core';
 
 class DataList extends React.Component {
   render() {

@@ -1,5 +1,5 @@
 import React from 'react';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 import styles from './navigation.styles';
 import Link from 'gatsby-link';
 import PropTypes from 'prop-types';

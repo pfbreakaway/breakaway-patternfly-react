@@ -50,7 +50,7 @@ static liveScope = { spacingStyles };
 // Additional styles relevant to the example display can be added via a static field getContainerProps.
 // getContainerProps is an import to a .js file that has content such as:
 /*
-import { css, StyleSheet } from '@patternfly/react-styles';
+import { css, StyleSheet } from '@breakaway/react-styles';
 const styles = StyleSheet.create({
   demoLayout: {
     '& > .pf-c-alert': {

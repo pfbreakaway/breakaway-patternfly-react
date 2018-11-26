@@ -1,5 +1,5 @@
 import React from 'react';
-import { Select, SelectOption } from '@patternfly/react-core';
+import { Select, SelectOption } from '@breakaway/react-core';
 
 class SelectInputDisabled extends React.Component {
   state = {

@@ -19,7 +19,7 @@
 - Guillaume Vincent ([@guillaumevincent](https://github.com/guillaumevincent))
 
 
-## @patternfly/react-table@0.1.1 (2018-11-15)
+## @breakaway/react-table@0.1.1 (2018-11-15)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -29,7 +29,7 @@
 - Guillaume Vincent ([@guillaumevincent](https://github.com/guillaumevincent))
 
 
-## @patternfly/react-docs@3.19.4 (2018-11-15)
+## @breakaway/react-docs@3.19.4 (2018-11-15)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -39,7 +39,7 @@
 - Guillaume Vincent ([@guillaumevincent](https://github.com/guillaumevincent))
 
 
-## @patternfly/react-core@1.35.0 (2018-11-15)
+## @breakaway/react-core@1.35.0 (2018-11-15)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -79,7 +79,7 @@
 - Jeff Phillips ([@jeff-phillips-18](https://github.com/jeff-phillips-18))
 
 
-## @patternfly/react-console@1.6.3 (2018-11-15)
+## @breakaway/react-console@1.6.3 (2018-11-15)
 
 #### :bug: Bug Fix
 * `patternfly-3`
@@ -119,7 +119,7 @@
 - Liz ([@lizsurette](https://github.com/lizsurette))
 
 
-## @patternfly/react-console@1.6.2 (2018-11-14)
+## @breakaway/react-console@1.6.2 (2018-11-14)
 
 #### :memo: Documentation
 * `patternfly-3`
@@ -159,7 +159,7 @@
 - Ron Lavi ([@Laviro](https://github.com/Laviro))
 
 
-## @patternfly/react-console@1.6.1 (2018-11-13)
+## @breakaway/react-console@1.6.1 (2018-11-13)
 
 #### :bug: Bug Fix
 * `patternfly-3`
@@ -179,7 +179,7 @@
 - Titani Labaj ([@tlabaj](https://github.com/tlabaj))
 
 
-## @patternfly/react-docs@3.19.2 (2018-11-13)
+## @breakaway/react-docs@3.19.2 (2018-11-13)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -189,7 +189,7 @@
 - Titani Labaj ([@tlabaj](https://github.com/tlabaj))
 
 
-## @patternfly/react-core@1.34.0 (2018-11-13)
+## @breakaway/react-core@1.34.0 (2018-11-13)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -249,7 +249,7 @@
 - Marek Libra ([@mareklibra](https://github.com/mareklibra))
 
 
-## @patternfly/react-console@1.6.0 (2018-11-13)
+## @breakaway/react-console@1.6.0 (2018-11-13)
 
 #### :rocket: New Feature
 * `patternfly-3`
@@ -269,7 +269,7 @@
 - Dan Labrecque ([@dlabrecq](https://github.com/dlabrecq))
 
 
-## @patternfly/react-docs@3.17.42 (2018-11-12)
+## @breakaway/react-docs@3.17.42 (2018-11-12)
 
 #### :memo: Documentation
 * [#882](https://github.com/patternfly/patternfly-react/pull/882) update contributing guidelines ([@christiemolloy](https://github.com/christiemolloy))
@@ -279,7 +279,7 @@
 - Dan Labrecque ([@dlabrecq](https://github.com/dlabrecq))
 
 
-## @patternfly/react-charts@1.0.3 (2018-11-12)
+## @breakaway/react-charts@1.0.3 (2018-11-12)
 
 #### :memo: Documentation
 * [#882](https://github.com/patternfly/patternfly-react/pull/882) update contributing guidelines ([@christiemolloy](https://github.com/christiemolloy))
@@ -299,7 +299,7 @@
 - Patrick Riley ([@priley86](https://github.com/priley86))
 
 
-## @patternfly/react-docs@3.17.40 (2018-11-08)
+## @breakaway/react-docs@3.17.40 (2018-11-08)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -309,7 +309,7 @@
 - Patrick Riley ([@priley86](https://github.com/priley86))
 
 
-## @patternfly/react-core@1.32.1 (2018-11-08)
+## @breakaway/react-core@1.32.1 (2018-11-08)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -349,7 +349,7 @@
 - Amiee Lo ([@amarie401](https://github.com/amarie401))
 
 
-## @patternfly/react-docs@3.17.35 (2018-11-06)
+## @breakaway/react-docs@3.17.35 (2018-11-06)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -359,7 +359,7 @@
 - Amiee Lo ([@amarie401](https://github.com/amarie401))
 
 
-## @patternfly/react-core@1.31.0 (2018-11-06)
+## @breakaway/react-core@1.31.0 (2018-11-06)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -399,7 +399,7 @@
 - Beni Cherniavsky-Paskin ([@cben](https://github.com/cben))
 
 
-## @patternfly/react-console@1.5.6 (2018-11-06)
+## @breakaway/react-console@1.5.6 (2018-11-06)
 
 #### :bug: Bug Fix
 * `patternfly-3`
@@ -462,7 +462,7 @@
 - Steve Goodwin ([@sg00dwin](https://github.com/sg00dwin))
 
 
-## @patternfly/react-console@1.5.4 (2018-11-06)
+## @breakaway/react-console@1.5.4 (2018-11-06)
 
 #### :bug: Bug Fix
 * `patternfly-3`
@@ -483,7 +483,7 @@
 - Joachim ([@jschuler](https://github.com/jschuler))
 
 
-## @patternfly/react-docs@3.17.32 (2018-11-05)
+## @breakaway/react-docs@3.17.32 (2018-11-05)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -493,7 +493,7 @@
 - Joachim ([@jschuler](https://github.com/jschuler))
 
 
-## @patternfly/react-core@1.30.1 (2018-11-05)
+## @breakaway/react-core@1.30.1 (2018-11-05)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -513,7 +513,7 @@
 - Patrick Riley ([@priley86](https://github.com/priley86))
 
 
-## @patternfly/react-tokens@1.7.0 (2018-11-02)
+## @breakaway/react-tokens@1.7.0 (2018-11-02)
 
 #### :rocket: New Feature
 * `patternfly-4`, `react-icons`
@@ -523,7 +523,7 @@
 - Patrick Riley ([@priley86](https://github.com/priley86))
 
 
-## @patternfly/react-icons@2.7.0 (2018-11-02)
+## @breakaway/react-icons@2.7.0 (2018-11-02)
 
 #### :rocket: New Feature
 * `patternfly-4`, `react-icons`
@@ -533,7 +533,7 @@
 - Patrick Riley ([@priley86](https://github.com/priley86))
 
 
-## @patternfly/react-docs@3.17.31 (2018-11-02)
+## @breakaway/react-docs@3.17.31 (2018-11-02)
 
 #### :rocket: New Feature
 * `patternfly-4`, `react-icons`
@@ -543,7 +543,7 @@
 - Patrick Riley ([@priley86](https://github.com/priley86))
 
 
-## @patternfly/react-core@1.30.0 (2018-11-02)
+## @breakaway/react-core@1.30.0 (2018-11-02)
 
 #### :rocket: New Feature
 * `patternfly-4`, `react-icons`
@@ -563,7 +563,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-docs@3.17.30 (2018-11-01)
+## @breakaway/react-docs@3.17.30 (2018-11-01)
 
 #### :house: Internal
 * `patternfly-4`
@@ -573,7 +573,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-core@1.29.1 (2018-11-01)
+## @breakaway/react-core@1.29.1 (2018-11-01)
 
 #### :house: Internal
 * `patternfly-4`
@@ -613,7 +613,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-docs@3.17.29 (2018-10-30)
+## @breakaway/react-docs@3.17.29 (2018-10-30)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -623,7 +623,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-core@1.29.0 (2018-10-30)
+## @breakaway/react-core@1.29.0 (2018-10-30)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -643,7 +643,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-docs@3.17.28 (2018-10-30)
+## @breakaway/react-docs@3.17.28 (2018-10-30)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -653,7 +653,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-core@1.28.4 (2018-10-30)
+## @breakaway/react-core@1.28.4 (2018-10-30)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -743,7 +743,7 @@
 - Jeff Phillips ([@jeff-phillips-18](https://github.com/jeff-phillips-18))
 
 
-## @patternfly/react-console@1.5.1 (2018-10-29)
+## @breakaway/react-console@1.5.1 (2018-10-29)
 
 #### :rocket: New Feature
 * `patternfly-3`
@@ -763,7 +763,7 @@
 - Titani Labaj ([@tlabaj](https://github.com/tlabaj))
 
 
-## @patternfly/react-docs@3.17.25 (2018-10-29)
+## @breakaway/react-docs@3.17.25 (2018-10-29)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -773,7 +773,7 @@
 - Titani Labaj ([@tlabaj](https://github.com/tlabaj))
 
 
-## @patternfly/react-core@1.28.1 (2018-10-29)
+## @breakaway/react-core@1.28.1 (2018-10-29)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -793,7 +793,7 @@
 - Patrick Riley ([@priley86](https://github.com/priley86))
 
 
-## @patternfly/react-tokens@1.6.0 (2018-10-26)
+## @breakaway/react-tokens@1.6.0 (2018-10-26)
 
 #### :rocket: New Feature
 * `patternfly-4`, `react-icons`
@@ -803,7 +803,7 @@
 - Patrick Riley ([@priley86](https://github.com/priley86))
 
 
-## @patternfly/react-icons@2.6.0 (2018-10-26)
+## @breakaway/react-icons@2.6.0 (2018-10-26)
 
 #### :rocket: New Feature
 * `patternfly-4`, `react-icons`
@@ -813,7 +813,7 @@
 - Patrick Riley ([@priley86](https://github.com/priley86))
 
 
-## @patternfly/react-docs@3.17.24 (2018-10-26)
+## @breakaway/react-docs@3.17.24 (2018-10-26)
 
 #### :rocket: New Feature
 * `patternfly-4`, `react-icons`
@@ -823,7 +823,7 @@
 - Patrick Riley ([@priley86](https://github.com/priley86))
 
 
-## @patternfly/react-core@1.28.0 (2018-10-26)
+## @breakaway/react-core@1.28.0 (2018-10-26)
 
 #### :rocket: New Feature
 * `patternfly-4`, `react-icons`
@@ -843,7 +843,7 @@
 - Guillaume Vincent ([@guillaumevincent](https://github.com/guillaumevincent))
 
 
-## @patternfly/react-docs@3.17.23 (2018-10-26)
+## @breakaway/react-docs@3.17.23 (2018-10-26)
 
 #### :house: Internal
 * `patternfly-4`
@@ -853,7 +853,7 @@
 - Guillaume Vincent ([@guillaumevincent](https://github.com/guillaumevincent))
 
 
-## @patternfly/react-core@1.27.6 (2018-10-26)
+## @breakaway/react-core@1.27.6 (2018-10-26)
 
 #### :house: Internal
 * `patternfly-4`
@@ -873,7 +873,7 @@
 - Marek Libra ([@mareklibra](https://github.com/mareklibra))
 
 
-## @patternfly/react-console@1.5.0 (2018-10-26)
+## @breakaway/react-console@1.5.0 (2018-10-26)
 
 #### :rocket: New Feature
 * `patternfly-3`
@@ -893,7 +893,7 @@
 - Dan Labrecque ([@dlabrecq](https://github.com/dlabrecq))
 
 
-## @patternfly/react-docs@3.17.20 (2018-10-26)
+## @breakaway/react-docs@3.17.20 (2018-10-26)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -903,7 +903,7 @@
 - Dan Labrecque ([@dlabrecq](https://github.com/dlabrecq))
 
 
-## @patternfly/react-core@1.27.3 (2018-10-26)
+## @breakaway/react-core@1.27.3 (2018-10-26)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -923,7 +923,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-docs@3.17.19 (2018-10-26)
+## @breakaway/react-docs@3.17.19 (2018-10-26)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -933,7 +933,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-core@1.27.2 (2018-10-26)
+## @breakaway/react-core@1.27.2 (2018-10-26)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -943,7 +943,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-icons@2.5.3 (2018-10-25)
+## @breakaway/react-icons@2.5.3 (2018-10-25)
 
 #### :memo: Documentation
 * `react-icons`
@@ -954,7 +954,7 @@
 - Karel Hala ([@karelhala](https://github.com/karelhala))
 
 
-## @patternfly/react-docs@3.17.18 (2018-10-25)
+## @breakaway/react-docs@3.17.18 (2018-10-25)
 
 #### :memo: Documentation
 * `react-icons`
@@ -965,7 +965,7 @@
 - Karel Hala ([@karelhala](https://github.com/karelhala))
 
 
-## @patternfly/react-core@1.27.1 (2018-10-25)
+## @breakaway/react-core@1.27.1 (2018-10-25)
 
 #### :memo: Documentation
 * `react-icons`
@@ -1006,7 +1006,7 @@
 - Jeff Phillips ([@jeff-phillips-18](https://github.com/jeff-phillips-18))
 
 
-## @patternfly/react-console@1.4.12 (2018-10-24)
+## @breakaway/react-console@1.4.12 (2018-10-24)
 
 #### :bug: Bug Fix
 * `patternfly-3`
@@ -1026,7 +1026,7 @@
 - Karel Hala ([@karelhala](https://github.com/karelhala))
 
 
-## @patternfly/react-docs@3.17.17 (2018-10-24)
+## @breakaway/react-docs@3.17.17 (2018-10-24)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -1036,7 +1036,7 @@
 - Karel Hala ([@karelhala](https://github.com/karelhala))
 
 
-## @patternfly/react-core@1.27.0 (2018-10-24)
+## @breakaway/react-core@1.27.0 (2018-10-24)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -1058,7 +1058,7 @@
 - Richard Všianský ([@rvsia](https://github.com/rvsia))
 
 
-## @patternfly/react-tokens@1.5.4 (2018-10-18)
+## @breakaway/react-tokens@1.5.4 (2018-10-18)
 
 #### :memo: Documentation
 * `patternfly-4`
@@ -1070,7 +1070,7 @@
 - Richard Všianský ([@rvsia](https://github.com/rvsia))
 
 
-## @patternfly/react-docs@3.17.13 (2018-10-18)
+## @breakaway/react-docs@3.17.13 (2018-10-18)
 
 #### :memo: Documentation
 * `patternfly-4`
@@ -1082,7 +1082,7 @@
 - Richard Všianský ([@rvsia](https://github.com/rvsia))
 
 
-## @patternfly/react-core@1.25.5 (2018-10-18)
+## @breakaway/react-core@1.25.5 (2018-10-18)
 
 #### :memo: Documentation
 * `patternfly-4`
@@ -1105,7 +1105,7 @@
 - Donald Labaj ([@dlabaj](https://github.com/dlabaj))
 
 
-## @patternfly/react-docs@3.17.11 (2018-10-18)
+## @breakaway/react-docs@3.17.11 (2018-10-18)
 
 #### :memo: Documentation
 * `patternfly-4`
@@ -1116,7 +1116,7 @@
 - Donald Labaj ([@dlabaj](https://github.com/dlabaj))
 
 
-## @patternfly/react-core@1.25.3 (2018-10-18)
+## @breakaway/react-core@1.25.3 (2018-10-18)
 
 #### :memo: Documentation
 * `patternfly-4`
@@ -1177,7 +1177,7 @@
 - Patrick Riley ([@priley86](https://github.com/priley86))
 
 
-## @patternfly/react-docs@3.17.10 (2018-10-18)
+## @breakaway/react-docs@3.17.10 (2018-10-18)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -1187,7 +1187,7 @@
 - Patrick Riley ([@priley86](https://github.com/priley86))
 
 
-## @patternfly/react-core@1.25.2 (2018-10-18)
+## @breakaway/react-core@1.25.2 (2018-10-18)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -1285,7 +1285,7 @@
 - [@suomiy](https://github.com/suomiy)
 
 
-## @patternfly/react-docs@3.17.9 (2018-10-18)
+## @breakaway/react-docs@3.17.9 (2018-10-18)
 
 #### :bug: Bug Fix
 * `patternfly-3`
@@ -1307,7 +1307,7 @@
 - [@suomiy](https://github.com/suomiy)
 
 
-## @patternfly/react-core@1.25.1 (2018-10-18)
+## @breakaway/react-core@1.25.1 (2018-10-18)
 
 #### :bug: Bug Fix
 * `patternfly-3`
@@ -1329,7 +1329,7 @@
 - [@suomiy](https://github.com/suomiy)
 
 
-## @patternfly/react-console@1.4.11 (2018-10-18)
+## @breakaway/react-console@1.4.11 (2018-10-18)
 
 #### :bug: Bug Fix
 * `patternfly-3`
@@ -1361,7 +1361,7 @@
 - Richard Všianský ([@rvsia](https://github.com/rvsia))
 
 
-## @patternfly/react-docs@3.17.8 (2018-10-17)
+## @breakaway/react-docs@3.17.8 (2018-10-17)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -1371,7 +1371,7 @@
 - Richard Všianský ([@rvsia](https://github.com/rvsia))
 
 
-## @patternfly/react-core@1.25.0 (2018-10-17)
+## @breakaway/react-core@1.25.0 (2018-10-17)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -1411,7 +1411,7 @@
 - Jeff Phillips ([@jeff-phillips-18](https://github.com/jeff-phillips-18))
 
 
-## @patternfly/react-console@1.4.10 (2018-10-17)
+## @breakaway/react-console@1.4.10 (2018-10-17)
 
 #### :bug: Bug Fix
 * `patternfly-3`
@@ -1431,7 +1431,7 @@
 - Karel Hala ([@karelhala](https://github.com/karelhala))
 
 
-## @patternfly/react-docs@3.17.5 (2018-10-16)
+## @breakaway/react-docs@3.17.5 (2018-10-16)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -1441,7 +1441,7 @@
 - Karel Hala ([@karelhala](https://github.com/karelhala))
 
 
-## @patternfly/react-core@1.24.1 (2018-10-16)
+## @breakaway/react-core@1.24.1 (2018-10-16)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -1495,7 +1495,7 @@
 - Mike Turley ([@mturley](https://github.com/mturley))
 
 
-## @patternfly/react-docs@3.17.4 (2018-10-16)
+## @breakaway/react-docs@3.17.4 (2018-10-16)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -1506,7 +1506,7 @@
 - Mike Turley ([@mturley](https://github.com/mturley))
 
 
-## @patternfly/react-console@1.4.9 (2018-10-16)
+## @breakaway/react-console@1.4.9 (2018-10-16)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -1527,7 +1527,7 @@
 - Richard Všianský ([@rvsia](https://github.com/rvsia))
 
 
-## @patternfly/react-docs@3.17.3 (2018-10-16)
+## @breakaway/react-docs@3.17.3 (2018-10-16)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -1537,7 +1537,7 @@
 - Richard Všianský ([@rvsia](https://github.com/rvsia))
 
 
-## @patternfly/react-core@1.24.0 (2018-10-16)
+## @breakaway/react-core@1.24.0 (2018-10-16)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -1577,7 +1577,7 @@
 - [@jhellar](https://github.com/jhellar)
 
 
-## @patternfly/react-console@1.4.8 (2018-10-15)
+## @breakaway/react-console@1.4.8 (2018-10-15)
 
 #### :bug: Bug Fix
 * `patternfly-3`
@@ -1657,7 +1657,7 @@
 - Marek Libra ([@mareklibra](https://github.com/mareklibra))
 
 
-## @patternfly/react-console@1.4.7 (2018-10-15)
+## @breakaway/react-console@1.4.7 (2018-10-15)
 
 #### :rocket: New Feature
 * `patternfly-3`
@@ -1677,7 +1677,7 @@
 - Richard Všianský ([@rvsia](https://github.com/rvsia))
 
 
-## @patternfly/react-docs@3.17.1 (2018-10-13)
+## @breakaway/react-docs@3.17.1 (2018-10-13)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -1687,7 +1687,7 @@
 - Richard Všianský ([@rvsia](https://github.com/rvsia))
 
 
-## @patternfly/react-core@1.23.0 (2018-10-13)
+## @breakaway/react-core@1.23.0 (2018-10-13)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -1707,7 +1707,7 @@
 - Joachim ([@jschuler](https://github.com/jschuler))
 
 
-## @patternfly/react-docs@3.17.0 (2018-10-12)
+## @breakaway/react-docs@3.17.0 (2018-10-12)
 
 #### :house: Internal
 * [#751](https://github.com/patternfly/patternfly-react/pull/751) Fix broken image paths for patternfly-4 docs hosted by surge ([@dlabrecq](https://github.com/dlabrecq))
@@ -1717,7 +1717,7 @@
 - Joachim ([@jschuler](https://github.com/jschuler))
 
 
-## @patternfly/react-core@1.22.0 (2018-10-12)
+## @breakaway/react-core@1.22.0 (2018-10-12)
 
 #### :house: Internal
 * [#751](https://github.com/patternfly/patternfly-react/pull/751) Fix broken image paths for patternfly-4 docs hosted by surge ([@dlabrecq](https://github.com/dlabrecq))
@@ -1737,7 +1737,7 @@
 - Michael Ro ([@michaelkro](https://github.com/michaelkro))
 
 
-## @patternfly/react-tokens@1.5.2 (2018-10-11)
+## @breakaway/react-tokens@1.5.2 (2018-10-11)
 
 #### :memo: Documentation
 * `patternfly-4`, `react-icons`
@@ -1747,7 +1747,7 @@
 - Michael Ro ([@michaelkro](https://github.com/michaelkro))
 
 
-## @patternfly/react-icons@2.5.1 (2018-10-11)
+## @breakaway/react-icons@2.5.1 (2018-10-11)
 
 #### :memo: Documentation
 * `patternfly-4`, `react-icons`
@@ -1757,7 +1757,7 @@
 - Michael Ro ([@michaelkro](https://github.com/michaelkro))
 
 
-## @patternfly/react-docs@3.16.10 (2018-10-11)
+## @breakaway/react-docs@3.16.10 (2018-10-11)
 
 #### :memo: Documentation
 * `patternfly-4`, `react-icons`
@@ -1767,7 +1767,7 @@
 - Michael Ro ([@michaelkro](https://github.com/michaelkro))
 
 
-## @patternfly/react-core@1.21.2 (2018-10-11)
+## @breakaway/react-core@1.21.2 (2018-10-11)
 
 #### :memo: Documentation
 * `patternfly-4`, `react-icons`
@@ -1788,7 +1788,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-core@1.20.0 (2018-10-11)
+## @breakaway/react-core@1.20.0 (2018-10-11)
 
 #### :memo: Documentation
 * `patternfly-4`
@@ -1829,7 +1829,7 @@
 - Michael Spaxman ([@seanforyou23](https://github.com/seanforyou23))
 
 
-## @patternfly/react-docs@3.16.6 (2018-10-11)
+## @breakaway/react-docs@3.16.6 (2018-10-11)
 
 #### :memo: Documentation
 * `patternfly-4`
@@ -1839,7 +1839,7 @@
 - Michael Spaxman ([@seanforyou23](https://github.com/seanforyou23))
 
 
-## @patternfly/react-core@1.19.2 (2018-10-11)
+## @breakaway/react-core@1.19.2 (2018-10-11)
 
 #### :memo: Documentation
 * `patternfly-4`
@@ -1879,7 +1879,7 @@
 - Joachim ([@jschuler](https://github.com/jschuler))
 
 
-## @patternfly/react-docs@3.16.5 (2018-10-09)
+## @breakaway/react-docs@3.16.5 (2018-10-09)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -1899,7 +1899,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-docs@3.16.4 (2018-10-09)
+## @breakaway/react-docs@3.16.4 (2018-10-09)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -1909,7 +1909,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-core@1.19.1 (2018-10-09)
+## @breakaway/react-core@1.19.1 (2018-10-09)
 
 #### :bug: Bug Fix
 * `patternfly-4`
@@ -1930,7 +1930,7 @@
 - Joachim ([@jschuler](https://github.com/jschuler))
 
 
-## @patternfly/react-docs@3.16.3 (2018-10-09)
+## @breakaway/react-docs@3.16.3 (2018-10-09)
 
 #### :bug: Bug Fix
 * `patternfly-3`
@@ -1941,7 +1941,7 @@
 - Joachim ([@jschuler](https://github.com/jschuler))
 
 
-## @patternfly/react-core@1.19.0 (2018-10-09)
+## @breakaway/react-core@1.19.0 (2018-10-09)
 
 #### :bug: Bug Fix
 * `patternfly-3`
@@ -1982,7 +1982,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-console@1.4.6 (2018-10-08)
+## @breakaway/react-console@1.4.6 (2018-10-08)
 
 #### :memo: Documentation
 * `patternfly-3`
@@ -2022,7 +2022,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-console@1.4.5 (2018-10-08)
+## @breakaway/react-console@1.4.5 (2018-10-08)
 
 #### :bug: Bug Fix
 * `patternfly-3`
@@ -2049,7 +2049,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-docs@3.16.0 (2018-10-08)
+## @breakaway/react-docs@3.16.0 (2018-10-08)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -2066,7 +2066,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-core@1.18.0 (2018-10-08)
+## @breakaway/react-core@1.18.0 (2018-10-08)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -2113,7 +2113,7 @@
 - Michael Ro ([@michaelkro](https://github.com/michaelkro))
 
 
-## @patternfly/react-docs@3.15.2 (2018-10-05)
+## @breakaway/react-docs@3.15.2 (2018-10-05)
 
 #### :memo: Documentation
 * `patternfly-4`
@@ -2123,7 +2123,7 @@
 - Michael Ro ([@michaelkro](https://github.com/michaelkro))
 
 
-## @patternfly/react-core@1.17.1 (2018-10-05)
+## @breakaway/react-core@1.17.1 (2018-10-05)
 
 #### :memo: Documentation
 * `patternfly-4`
@@ -2143,7 +2143,7 @@
 - Karel Hala ([@karelhala](https://github.com/karelhala))
 
 
-## @patternfly/react-icons@2.5.0 (2018-10-05)
+## @breakaway/react-icons@2.5.0 (2018-10-05)
 
 #### :house: Internal
 * `patternfly-4`, `react-icons`
@@ -2153,7 +2153,7 @@
 - Karel Hala ([@karelhala](https://github.com/karelhala))
 
 
-## @patternfly/react-docs@3.15.1 (2018-10-05)
+## @breakaway/react-docs@3.15.1 (2018-10-05)
 
 #### :house: Internal
 * `patternfly-4`, `react-icons`
@@ -2163,7 +2163,7 @@
 - Karel Hala ([@karelhala](https://github.com/karelhala))
 
 
-## @patternfly/react-core@1.17.0 (2018-10-05)
+## @breakaway/react-core@1.17.0 (2018-10-05)
 
 #### :house: Internal
 * `patternfly-4`, `react-icons`
@@ -2189,7 +2189,7 @@
 - Ron Lavi ([@Laviro](https://github.com/Laviro))
 
 
-## @patternfly/react-docs@3.15.0 (2018-10-04)
+## @breakaway/react-docs@3.15.0 (2018-10-04)
 
 #### :memo: Documentation
 * `patternfly-4`
@@ -2219,7 +2219,7 @@
 - Titani Labaj ([@tlabaj](https://github.com/tlabaj))
 
 
-## @patternfly/react-docs@3.14.3 (2018-10-03)
+## @breakaway/react-docs@3.14.3 (2018-10-03)
 
 #### :memo: Documentation
 * `patternfly-4`
@@ -2233,7 +2233,7 @@
 - Titani Labaj ([@tlabaj](https://github.com/tlabaj))
 
 
-## @patternfly/react-core@1.16.2 (2018-10-03)
+## @breakaway/react-core@1.16.2 (2018-10-03)
 
 #### :memo: Documentation
 * `patternfly-4`
@@ -2257,7 +2257,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-docs@3.14.2 (2018-10-03)
+## @breakaway/react-docs@3.14.2 (2018-10-03)
 
 #### :house: Internal
 * `patternfly-4`
@@ -2267,7 +2267,7 @@
 - [@boaz1337](https://github.com/boaz1337)
 
 
-## @patternfly/react-core@1.16.1 (2018-10-03)
+## @breakaway/react-core@1.16.1 (2018-10-03)
 
 #### :house: Internal
 * `patternfly-4`
@@ -2287,7 +2287,7 @@
 - Karel Hala ([@karelhala](https://github.com/karelhala))
 
 
-## @patternfly/react-tokens@1.5.0 (2018-10-03)
+## @breakaway/react-tokens@1.5.0 (2018-10-03)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -2297,7 +2297,7 @@
 - Karel Hala ([@karelhala](https://github.com/karelhala))
 
 
-## @patternfly/react-docs@3.14.1 (2018-10-03)
+## @breakaway/react-docs@3.14.1 (2018-10-03)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -2307,7 +2307,7 @@
 - Karel Hala ([@karelhala](https://github.com/karelhala))
 
 
-## @patternfly/react-core@1.16.0 (2018-10-03)
+## @breakaway/react-core@1.16.0 (2018-10-03)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -2353,7 +2353,7 @@
 - Patrick Riley ([@priley86](https://github.com/priley86))
 
 
-## @patternfly/react-tokens@1.4.0 (2018-10-02)
+## @breakaway/react-tokens@1.4.0 (2018-10-02)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -2371,7 +2371,7 @@
 - Patrick Riley ([@priley86](https://github.com/priley86))
 
 
-## @patternfly/react-docs@3.14.0 (2018-10-02)
+## @breakaway/react-docs@3.14.0 (2018-10-02)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -2389,7 +2389,7 @@
 - Patrick Riley ([@priley86](https://github.com/priley86))
 
 
-## @patternfly/react-core@1.15.0 (2018-10-02)
+## @breakaway/react-core@1.15.0 (2018-10-02)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -2436,7 +2436,7 @@
   * [#658](https://github.com/patternfly/patternfly-react/pull/658) feat(full-page): add functionality to show components in full page mode ([@dlabrecq](https://github.com/dlabrecq))
   * [#666](https://github.com/patternfly/patternfly-react/pull/666) fix(examples and docs): adding react-live… ([@jschuler](https://github.com/jschuler))
   * [#662](https://github.com/patternfly/patternfly-react/pull/662) docs(PF4 badge): update doc to show read/unread styles appropriately ([@jeff-phillips-18](https://github.com/jeff-phillips-18))
-  * [#649](https://github.com/patternfly/patternfly-react/pull/649)  fix(@patternfly/react-docs): fixes the path to the font files ([@jschuler](https://github.com/jschuler))
+  * [#649](https://github.com/patternfly/patternfly-react/pull/649)  fix(@breakaway/react-docs): fixes the path to the font files ([@jschuler](https://github.com/jschuler))
 
 #### :house: Internal
 * `patternfly-3`
@@ -2506,7 +2506,7 @@
 - Titani Labaj ([@tlabaj](https://github.com/tlabaj))
 
 
-## @patternfly/react-core@1.13.0 (2018-09-20)
+## @breakaway/react-core@1.13.0 (2018-09-20)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -2518,7 +2518,7 @@
 
 #### :memo: Documentation
 * `patternfly-4`
-  * [#634](https://github.com/patternfly/patternfly-react/pull/634) fix(@patternfly/react-docs): use emotion to load in global pf core st… ([@jschuler](https://github.com/jschuler))
+  * [#634](https://github.com/patternfly/patternfly-react/pull/634) fix(@breakaway/react-docs): use emotion to load in global pf core st… ([@jschuler](https://github.com/jschuler))
 
 #### Committers: 3
 - Allen Wight ([@AllenBW](https://github.com/AllenBW))
@@ -2575,7 +2575,7 @@
 - Jeff Phillips ([@jeff-phillips-18](https://github.com/jeff-phillips-18))
 
 
-## @patternfly/react-core@1.12.0 (2018-09-13)
+## @breakaway/react-core@1.12.0 (2018-09-13)
 
 #### :rocket: New Feature
 * `patternfly-4`
@@ -2630,7 +2630,7 @@
 - Jeff Phillips ([@jeff-phillips-18](https://github.com/jeff-phillips-18))
 
 
-## @patternfly/react-core@1.11.1 (2018-09-05)
+## @breakaway/react-core@1.11.1 (2018-09-05)
 
 #### :memo: Documentation
 * [#597](https://github.com/patternfly/patternfly-react/pull/597) fix(docs): fix broken link in readme ([@seanforyou23](https://github.com/seanforyou23))
@@ -2734,7 +2734,7 @@
 - Vojtech Szocs ([@vojtechszocs](https://github.com/vojtechszocs))
 
 
-## @patternfly/react-core@1.9.0 (2018-08-22)
+## @breakaway/react-core@1.9.0 (2018-08-22)
 
 #### :rocket: New Feature
 * `react-core`
@@ -2765,7 +2765,7 @@
 - Michael Ro ([@michaelkro](https://github.com/michaelkro))
 
 
-## @patternfly/react-core@1.4.0 (2018-07-26)
+## @breakaway/react-core@1.4.0 (2018-07-26)
 
 #### :bug: Bug Fix
 * `react-icons`
@@ -2797,7 +2797,7 @@
 - Alberto Gutierrez ([@aljesusg](https://github.com/aljesusg))
 
 
-## @patternfly/react-codemods@1.0.0 (2018-05-09)
+## @breakaway/react-codemods@1.0.0 (2018-05-09)
 
 #### :rocket: New Feature
 * [#329](https://github.com/patternfly/patternfly-react/pull/329) feat(NotificationList) -Automates notification creation for list example ([@AllenBW](https://github.com/AllenBW))

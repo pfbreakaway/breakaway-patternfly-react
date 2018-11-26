@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import styles from '@patternfly/patternfly-next/components/Progress/progress.css';
-import { css, getModifier } from '@patternfly/react-styles';
+import { css, getModifier } from '@breakaway/react-styles';
 import PropTypes from 'prop-types';
 import ProgressContainer, { ProgressMeasureLocation, ProgressVariant } from './ProgressContainer';
 import { getUniqueId } from '../../internal/util';

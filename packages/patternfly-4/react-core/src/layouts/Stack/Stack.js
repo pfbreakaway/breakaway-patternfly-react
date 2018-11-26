@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import styles from '@patternfly/patternfly-next/layouts/Stack/stack.css';
 import { componentShape } from '../../internal/componentShape';
 import { GutterSize, getGutterModifier } from '../../styles/gutters';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 
 const propTypes = {
   /** Adds space between children. Options are sm, md or lg */

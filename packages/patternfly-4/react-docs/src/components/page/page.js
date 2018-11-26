@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styles from './page.styles';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 import Helmet from 'react-helmet';
 
 const propTypes = {

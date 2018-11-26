@@ -1,5 +1,5 @@
 import React from 'react';
-import { Title } from '@patternfly/react-core';
+import { Title } from '@breakaway/react-core';
 
 class TitleSizes extends React.Component {
   render() {

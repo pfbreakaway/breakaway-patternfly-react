@@ -1,4 +1,4 @@
-import { Alert, AlertVariant } from '@patternfly/react-core';
+import { Alert, AlertVariant } from '@breakaway/react-core';
 import SuccessExample from './examples/SuccessAlert';
 import DangerExample from './examples/DangerAlert';
 import InfoExample from './examples/InfoAlert';

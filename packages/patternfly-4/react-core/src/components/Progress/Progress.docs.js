@@ -1,4 +1,4 @@
-import { Progress, ProgressVariant, ProgressSize, ProgressMeasureLocation } from '@patternfly/react-core';
+import { Progress, ProgressVariant, ProgressSize, ProgressMeasureLocation } from '@breakaway/react-core';
 import Simple from './examples/SimpleProgress';
 import LargeProgress from './examples/LargeProgress';
 import ProgressFailure from './examples/ProgressFailure';

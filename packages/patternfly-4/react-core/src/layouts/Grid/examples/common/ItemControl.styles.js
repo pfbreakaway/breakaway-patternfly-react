@@ -1,10 +1,10 @@
-import { StyleSheet } from '@patternfly/react-styles';
+import { StyleSheet } from '@breakaway/react-styles';
 import {
   global_BorderColor as borderColor,
   global_BorderWidth_sm as borderWidth,
   global_spacer_xs as spacer,
   global_FontSize_xs as fontSize
-} from '@patternfly/react-tokens';
+} from '@breakaway/react-tokens';
 
 export default StyleSheet.create({
   itemControl: {

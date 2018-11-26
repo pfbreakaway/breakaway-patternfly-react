@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from '@patternfly/patternfly-next/components/List/list.css';
-import { css, getModifier } from '@patternfly/react-styles';
+import { css, getModifier } from '@breakaway/react-styles';
 import PropTypes from 'prop-types';
 
 export const ListVariant = {

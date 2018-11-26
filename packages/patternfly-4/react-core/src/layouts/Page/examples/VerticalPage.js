@@ -1,5 +1,5 @@
 import React from 'react';
-import { Page, PageHeader, PageSidebar, PageSection, PageSectionVariants } from '@patternfly/react-core';
+import { Page, PageHeader, PageSidebar, PageSection, PageSectionVariants } from '@breakaway/react-core';
 
 class VerticalPage extends React.Component {
   constructor(props) {

@@ -1,4 +1,4 @@
-import { css, StyleSheet } from '@patternfly/react-styles';
+import { css, StyleSheet } from '@breakaway/react-styles';
 
 const styles = StyleSheet.create({
   demoLayout: {

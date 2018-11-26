@@ -1,4 +1,4 @@
-import { Badge } from '@patternfly/react-core';
+import { Badge } from '@breakaway/react-core';
 import Read from './examples/ReadBadge';
 import Unread from './examples/UnreadBadge';
 import getContainerProps from './examples/common/getContainerProps';

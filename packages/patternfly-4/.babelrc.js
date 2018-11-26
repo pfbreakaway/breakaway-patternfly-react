@@ -11,7 +11,7 @@ module.exports = {
     babelENV !== 'development' && [
       'transform-imports',
       {
-        '@patternfly/react-icons': {
+        '@breakaway/react-icons': {
           kebabCase: true,
           preventFullImport: true,
           transform: importName => {
@@ -20,9 +20,9 @@ module.exports = {
             }
             const importPath = `icons/${importName}`;
             if (!modules) {
-              return `@patternfly/react-icons/dist/esm/${importPath}`;
+              return `@breakaway/react-icons/dist/esm/${importPath}`;
             }
-            return `@patternfly/react-icons/dist/js/${importPath}`;
+            return `@breakaway/react-icons/dist/js/${importPath}`;
           }
         }
       }

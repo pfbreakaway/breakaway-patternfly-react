@@ -1,5 +1,5 @@
 import React from 'react';
-import { Checkbox } from '@patternfly/react-core';
+import { Checkbox } from '@breakaway/react-core';
 
 class UncontrolledCheckbox extends React.Component {
   render() {

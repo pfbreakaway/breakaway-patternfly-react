@@ -1,5 +1,5 @@
 import React from 'react';
-import { Progress } from '@patternfly/react-core';
+import { Progress } from '@breakaway/react-core';
 
 class ProgressWithDynamicDescription extends React.Component {
   render() {

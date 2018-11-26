@@ -3,7 +3,7 @@ import Horizontal from './examples/HorizontalForm';
 import Various from './examples/VariousLabelsForm';
 import Alternative from './examples/AlternativeForm';
 import Invalid from './examples/InvalidForm';
-import { Form, FormGroup, ActionGroup } from '@patternfly/react-core';
+import { Form, FormGroup, ActionGroup } from '@breakaway/react-core';
 
 export default {
   title: 'Form',

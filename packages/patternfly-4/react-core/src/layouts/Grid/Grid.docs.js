@@ -1,4 +1,4 @@
-import { Grid, GridItem } from '@patternfly/react-core';
+import { Grid, GridItem } from '@breakaway/react-core';
 import GridPlayground from './examples/GridPlayground';
 import Simple from './examples/SimpleGrid';
 import WithGutters from './examples/GridWithGutters';

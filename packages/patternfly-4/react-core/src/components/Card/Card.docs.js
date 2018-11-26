@@ -1,4 +1,4 @@
-import { Card, CardBody, CardFooter, CardHeader } from '@patternfly/react-core';
+import { Card, CardBody, CardFooter, CardHeader } from '@breakaway/react-core';
 import Simple from './examples/SimpleCard';
 
 export default {

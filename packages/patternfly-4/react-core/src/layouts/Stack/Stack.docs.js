@@ -1,4 +1,4 @@
-import { Stack, StackItem, GutterSize } from '@patternfly/react-core';
+import { Stack, StackItem, GutterSize } from '@breakaway/react-core';
 import Simple from './examples/SimpleStack';
 import StackWithGutter from './examples/StackWithGutter';
 import getContainerProps from './examples/common/getContainerProps';

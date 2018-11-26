@@ -1,5 +1,5 @@
 import React from 'react';
-import { TextContent, Text, TextVariants } from '@patternfly/react-core';
+import { TextContent, Text, TextVariants } from '@breakaway/react-core';
 
 class BodyText extends React.Component {
   render() {

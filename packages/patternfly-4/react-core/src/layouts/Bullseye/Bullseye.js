@@ -1,5 +1,5 @@
 import React from 'react';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 import styles from '@patternfly/patternfly-next/layouts/Bullseye/bullseye.css';
 import PropTypes from 'prop-types';
 import { componentShape } from '../../internal/componentShape';

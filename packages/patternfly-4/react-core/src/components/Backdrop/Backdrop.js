@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 import styles from '@patternfly/patternfly-next/components/Backdrop/backdrop.css';
 
 const propTypes = {

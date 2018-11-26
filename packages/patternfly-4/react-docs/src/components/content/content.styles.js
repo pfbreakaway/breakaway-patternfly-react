@@ -1,5 +1,5 @@
-import { StyleSheet } from '@patternfly/react-styles';
-import { global_spacer_3xl as spacer3xl } from '@patternfly/react-tokens';
+import { StyleSheet } from '@breakaway/react-styles';
+import { global_spacer_3xl as spacer3xl } from '@breakaway/react-tokens';
 
 export default StyleSheet.create({
   content: {

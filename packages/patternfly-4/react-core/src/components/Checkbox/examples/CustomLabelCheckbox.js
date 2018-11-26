@@ -1,5 +1,5 @@
 import React from 'react';
-import { Checkbox, Badge } from '@patternfly/react-core';
+import { Checkbox, Badge } from '@breakaway/react-core';
 
 class CustomLabelCheckbox extends React.Component {
   render() {

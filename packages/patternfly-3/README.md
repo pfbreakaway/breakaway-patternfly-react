@@ -9,6 +9,6 @@ This package provides PatternFly React components for PatternFly 3.
 This package provides components based on PatternFly 3 which do not The yet have associated patterns found on [PatternFly.org](https://www.patternfly.org/).
 .  
 
-## @patternfly/react-console
+## @breakaway/react-console
 
 This package provides VncConsole and SerialConsole React components for Patternfly 3.

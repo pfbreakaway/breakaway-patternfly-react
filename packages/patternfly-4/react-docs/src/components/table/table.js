@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styles from './table.styles';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 
 const propTypes = {
   children: PropTypes.any,

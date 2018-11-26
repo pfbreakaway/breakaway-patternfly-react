@@ -1,4 +1,4 @@
-# Contributing to @patternfly/patternfly-react
+# Contributing to @breakaway/patternfly-react
 
 ## Adding a new component
 

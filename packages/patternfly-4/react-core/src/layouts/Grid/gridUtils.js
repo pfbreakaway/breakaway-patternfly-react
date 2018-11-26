@@ -1,5 +1,5 @@
 import styles from '@patternfly/patternfly-next/layouts/Grid/grid.css';
-import { getModifier } from '@patternfly/react-styles';
+import { getModifier } from '@breakaway/react-styles';
 
 export const gridSpans = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
 

@@ -1,4 +1,4 @@
-# @patternfly/react-styles
+# @breakaway/react-styles
 Library that provides CSS-in-JS capabilites along with build plugins to convert raw css imports to a consumable form for JS. This approach is very similar to how [css-modules][css-modules] works.
 
 ## Getting Started
@@ -9,7 +9,7 @@ This library has 3 main parts.
 
 ## Detailed design
 
-### Babel plugin `@patternfly/react-styles/babel`
+### Babel plugin `@breakaway/react-styles/babel`
 
 The babel plugin will take care of transforming and `.css` imports to javascript files that use the StyleSheet API listed below.
 
@@ -18,7 +18,7 @@ The babel plugin will take care of transforming and `.css` imports to javascript
 ```json5
 {
   "plugins": [
-    ["@patternfly/react-styles/babel", {
+    ["@breakaway/react-styles/babel", {
       "srcDir": "./src",
       "outDir": "./dist/esm",
       "useModules": true
@@ -39,7 +39,7 @@ The babel plugin will take care of transforming and `.css` imports to javascript
 
 ```jsx
 import React from 'react';
-import { css } from '@patternfly/react-styles'
+import { css } from '@breakaway/react-styles'
 import styles from '@patternfly/patternfly-next/components/Button/styles.css';
 import overrides from './Button.overrides.css'
 
@@ -53,20 +53,20 @@ const Button = ({ children, variant }) => (
 ### Out
 ##### `dist/styles/components/Button.overrides.js`
 ```js
-import { StyleSheet } from '@patternfly/react-styles'
+import { StyleSheet } from '@breakaway/react-styles'
 export default StyleSheet.parse('.bg{background-color:#000}');
 ```
 
 ##### `dist/styles/node/@patternfly/patternfly-next/components/Button/index.js`
 ```js
-import { StyleSheet } from '@patternfly/react-styles'
+import { StyleSheet } from '@breakaway/react-styles'
 const styles = StyleSheet.parse('.button{color: black;}');
 ```
 
 ##### `dist/components/Button.js`
 ```jsx
 import React from 'react';
-import { css } from '@patternfly/react-styles'
+import { css } from '@breakaway/react-styles'
 import overrides from '../../styles/components/Button/Button.overrides.js';
 import styles from '../../styles/node/@patternfly/patternfly-next/components/Button/index.js';
 
@@ -92,7 +92,7 @@ pf-m-block --> modifiers.block
 
 #### Example
 ```js
-import { StyleSheet, css } from '@patternfly/react-styles';
+import { StyleSheet, css } from '@breakaway/react-styles';
 
 const styles = StyleSheet.parse(`
   .pf-c-button { background: green }
@@ -115,7 +115,7 @@ StyleSheet.create takes an object with each property calling `css` from emotion.
 
 #### Example
 ```js
-import { StyleSheet } from '@patternfly/react-styles';
+import { StyleSheet } from '@breakaway/react-styles';
 
 
 const styles = StyleSheet.create({
@@ -133,7 +133,7 @@ Joins classes together into a single space-delimited string. If a `PFStyleObject
 
 #### Example
 ```jsx
-import { css } from '@patternfly/react-styles'
+import { css } from '@breakaway/react-styles'
 import styles from './Button.css';
 
 const Buttton = ({ isActive, isDisabled, children }) => (

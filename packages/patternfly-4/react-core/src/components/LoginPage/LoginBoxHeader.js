@@ -1,10 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { StyleSheet } from '@patternfly/react-styles';
+import { StyleSheet } from '@breakaway/react-styles';
 import { Title } from '../Title';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 import styles from '@patternfly/patternfly-next/components/LoginBox/login-box.css';
-import { global_spacer_md, global_spacer_sm } from '@patternfly/react-tokens';
+import { global_spacer_md, global_spacer_sm } from '@breakaway/react-tokens';
 import displayStyles from '@patternfly/patternfly-next/utilities/Display/display.css';
 import flexAlignment from '@patternfly/patternfly-next/utilities/Flex/flex.css';
 

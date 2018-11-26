@@ -1,5 +1,5 @@
 import React from 'react';
-import { Select, SelectOption, SelectOptionGroup } from '@patternfly/react-core';
+import { Select, SelectOption, SelectOptionGroup } from '@breakaway/react-core';
 
 class SelectInputGrouped extends React.Component {
   state = {

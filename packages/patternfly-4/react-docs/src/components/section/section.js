@@ -1,8 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 import styles from './section.styles';
-import { Title } from '@patternfly/react-core';
+import { Title } from '@breakaway/react-core';
 
 const propTypes = {
   title: PropTypes.string,

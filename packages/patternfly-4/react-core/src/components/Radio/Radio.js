@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from '@patternfly/patternfly-next/components/Check/check.css';
 import PropTypes from 'prop-types';
-import { css, getModifier } from '@patternfly/react-styles';
+import { css, getModifier } from '@breakaway/react-styles';
 
 const propTypes = {
   /** Additional classes added to the Radio. */

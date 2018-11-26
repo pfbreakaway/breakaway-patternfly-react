@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from '@patternfly/patternfly-next/components/Dropdown/dropdown.css';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 import PropTypes from 'prop-types';
 import { componentShape } from '../../internal/componentShape';
 

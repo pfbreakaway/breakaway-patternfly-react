@@ -9,7 +9,7 @@ import {
   ToolbarGroup,
   ToolbarItem,
   Button
-} from '@patternfly/react-core';
+} from '@breakaway/react-core';
 
 class AlternativeForm extends React.Component {
   state = {

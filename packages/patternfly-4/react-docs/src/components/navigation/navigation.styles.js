@@ -1,4 +1,4 @@
-import { StyleSheet } from '@patternfly/react-styles';
+import { StyleSheet } from '@breakaway/react-styles';
 import {
   global_FontSize_xs as fontSizeXs,
   global_spacer_sm as spacerSm,
@@ -6,7 +6,7 @@ import {
   global_spacer_md as spacerMd,
   global_BackgroundColor_100 as navBackgroundColor,
   c_nav_Width as sidebarWidth
-} from '@patternfly/react-tokens';
+} from '@breakaway/react-tokens';
 
 export default StyleSheet.create({
   navigation: {

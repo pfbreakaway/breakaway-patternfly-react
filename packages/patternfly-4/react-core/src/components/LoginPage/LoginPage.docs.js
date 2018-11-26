@@ -1,4 +1,4 @@
-import { LoginPage, LoginForm } from '@patternfly/react-core';
+import { LoginPage, LoginForm } from '@breakaway/react-core';
 import SimpleLoginPage from './examples/SimpleLoginPage';
 
 export default {

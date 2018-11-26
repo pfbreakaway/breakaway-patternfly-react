@@ -1,5 +1,5 @@
 import React from 'react';
-import { css, getModifier } from '@patternfly/react-styles';
+import { css, getModifier } from '@breakaway/react-styles';
 import PropTypes from 'prop-types';
 import styles from '@patternfly/patternfly-next/components/Title/title.css';
 import { BaseSizes } from '../../styles/sizes';

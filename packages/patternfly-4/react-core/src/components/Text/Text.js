@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { css } from '@patternfly/react-styles';
+import { css } from '@breakaway/react-styles';
 
 export const TextVariants = {
   h1: 'h1',

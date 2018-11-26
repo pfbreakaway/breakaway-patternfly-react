@@ -1,5 +1,5 @@
 import React from 'react';
-import { Toolbar, ToolbarGroup, ToolbarSection, ToolbarItem } from '@patternfly/react-core';
+import { Toolbar, ToolbarGroup, ToolbarSection, ToolbarItem } from '@breakaway/react-core';
 
 class SimpleToolbarSection extends React.Component {
   render() {

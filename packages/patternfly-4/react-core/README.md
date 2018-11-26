@@ -1,4 +1,4 @@
-# @patternfly/react-core
+# @breakaway/react-core
 
 This package provides Core PatternFly components for the [PatternFly 4][patternfly-4].
 
@@ -20,13 +20,13 @@ This project also requires a Yarn version of >=1.6.0. The latest version can be 
 ### Installing
 
 ```
-yarn add @patternfly/react-core
+yarn add @breakaway/react-core
 ```
 
 or
 
 ```
-npm install @patternfly/react-core --save
+npm install @breakaway/react-core --save
 ```
 
 # Usage
@@ -36,14 +36,14 @@ npm install @patternfly/react-core --save
 It's strongly advised to use the PatternFly Base CSS in your whole project, or some components may diverge in appearance:
 
 ```javascript
-import '@patternfly/react-core/dist/styles/base.css';
+import '@breakaway/react-core/dist/styles/base.css';
 ```
 
 #### Example Component Usage
 
 ```javascript
 import React from 'react';
-import { Button } from '@patternfly/react-core';
+import { Button } from '@breakaway/react-core';
 
 export default <Button variant="primary">Button</Button>;
 ```
@@ -85,7 +85,7 @@ yarn build:docs
 
 # Contributing Components
 
-This library makes use of the babel plugin from [@patternfly/react-styles](../react-styles/README.md) to enable providing the CSS alongside the components. This removes the need for consumers to use (style|css|sass)-loaders. For an example of using CSS from core you can reference [Button.js](./src/components/Button/Button.js). For any CSS not provided by core please use the `StyleSheet.create` utility from [@patternfly/react-styles](../react-styles/README.md). This will prevent collisions with any consumers, and allow the CSS to be bundled with the component.
+This library makes use of the babel plugin from [@breakaway/react-styles](../react-styles/README.md) to enable providing the CSS alongside the components. This removes the need for consumers to use (style|css|sass)-loaders. For an example of using CSS from core you can reference [Button.js](./src/components/Button/Button.js). For any CSS not provided by core please use the `StyleSheet.create` utility from [@breakaway/react-styles](../react-styles/README.md). This will prevent collisions with any consumers, and allow the CSS to be bundled with the component.
 
 ### Building
 

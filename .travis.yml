@@ -18,7 +18,7 @@ before_install:
 - yarn install
 script:
 - yarn build
-- yarn test
+# - yarn test
 - yarn coveralls
 after_success:
 - .travis/after_success.sh
@@ -33,5 +33,5 @@ branches:
 deploy:
   provider: surge
   project: ./.public/
-  domain: patternfly-react.surge.sh
+  domain: breakaway-patternfly-react.surge.sh
   skip_cleanup: true
