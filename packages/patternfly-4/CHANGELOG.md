@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.25.3"></a>
+## [1.25.3](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@1.25.2...breakaway-patternfly4-react-lerna-root@1.25.3) (2018-11-26)
+
+
+### Bug Fixes
+
+* **core:** alert label ([fc0ecdf](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/fc0ecdf))
+* **lerna:** remove conventionalcommits ([04409f9](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/04409f9))
+* **pkgs:** attempt to release only sub packages ([ebf4b93](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/ebf4b93))
+
+
+
+
 <a name="1.25.2"></a>
 ## [1.25.2](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@1.25.1...breakaway-patternfly4-react-lerna-root@1.25.2) (2018-11-26)
 
