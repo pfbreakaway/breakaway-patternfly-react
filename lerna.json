@@ -22,6 +22,11 @@
       "PR: internal :house:": ":house: Internal"
     }
   },
+  "command": {
+    "publish": {
+      "conventionalCommits": true
+    }
+  },
   "version": "5.0.0",
   "packages": [
     "packages/patternfly-3/**",

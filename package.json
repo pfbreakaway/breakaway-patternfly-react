@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/patternfly/patternfly-react#readme",
   "devDependencies": {
+    "@commitlint/cli": "^7.2.1",
+    "@commitlint/config-conventional": "^7.1.2",
     "change-case": "^3.0.2",
     "concurrently": "^3.5.1",
     "coveralls": "^3.0.0",
@@ -67,6 +69,7 @@
     "lerna": "lerna",
     "lerna:publish": "lerna publish --yes",
     "lerna:changelog": "lerna-changelog --from=`git rev-list --max-parents=0 HEAD` > CHANGELOG.md && git add CHANGELOG.md",
+    "commitmsg": "commitlint -e $GIT_PARAMS",
     "lint": "lerna run lint --parallel",
     "lint:fix": "lerna run lint:fix --parallel",
     "prettier": "prettier --write 'storybook/**/*.js' 'packages/**/*.js' 'scripts/**/*.js'",
@@ -82,6 +85,11 @@
     "test:current": "jest --watch",
     "test:watch": "jest --watchAll",
     "travis-deploy-once": "travis-deploy-once"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
   },
   "jest": {
     "collectCoverage": true,
