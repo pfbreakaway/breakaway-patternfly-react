@@ -31,7 +31,7 @@
   "version": "1.35.5",
   "packages": [
     "packages/patternfly-3/**",
-    "packages/patternfly-4/**",
+    "packages/patternfly-4/react-core/**",
     "packages/eslint-plugin-patternfly-react/*",
     "packages/react-codemods/*",
     "packages/react-icons/*"
