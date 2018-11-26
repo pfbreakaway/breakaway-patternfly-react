@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.35.4"></a>
+## 1.35.4 (2018-11-26)
+
+
+### Bug Fixes
+
+* **core:** alert label ([fc0ecdf](https://github.com/patternfly/patternfly-react/commit/fc0ecdf))
+* **lerna:** not independent ([3cf80e2](https://github.com/patternfly/patternfly-react/commit/3cf80e2))
+* **lerna:** remove conventionalcommits ([04409f9](https://github.com/patternfly/patternfly-react/commit/04409f9))
+* **lerna:** use workspaces ([8b482e2](https://github.com/patternfly/patternfly-react/commit/8b482e2))
+* **pkgs:** attempt to release only sub packages ([ebf4b93](https://github.com/patternfly/patternfly-react/commit/ebf4b93))
+
+
+
+
 <a name="1.35.3"></a>
 ## [1.35.3](https://github.com/patternfly/patternfly-react/compare/@breakaway/react-core@1.35.2...@breakaway/react-core@1.35.3) (2018-11-26)
 

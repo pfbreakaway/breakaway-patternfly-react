@@ -28,6 +28,6 @@
       "conventionalCommits": true
     }
   },
-  "version": "1.0.0",
+  "version": "1.35.4",
   "useWorkspaces": true
 }
