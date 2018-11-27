@@ -38,5 +38,8 @@
     "packages/react-codemods",
     "packages/react-icons"
   ],
-  "useWorkspaces": false
+  "ignoreChanges": [
+    "packages/patternfly-4/package.json"
+  ]
+  "useWorkspaces": true
 }
