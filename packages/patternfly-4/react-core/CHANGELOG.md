@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="5.0.2"></a>
+## [5.0.2](https://github.com/patternfly/patternfly-react/compare/v5.0.1...v5.0.2) (2018-11-27)
+
+
+### Bug Fixes
+
+* **lerna:** remove package workspace ([c041c42](https://github.com/patternfly/patternfly-react/commit/c041c42))
+
+
+
+
 <a name="5.0.1"></a>
 ## [5.0.1](https://github.com/patternfly/patternfly-react/compare/v1.35.5...v5.0.1) (2018-11-27)
 

@@ -27,7 +27,7 @@
       "conventionalCommits": true
     }
   },
-  "version": "5.0.1",
+  "version": "5.0.2",
   "packages": [
     "packages/patternfly-3/**",
     "packages/patternfly-4/react-core",
