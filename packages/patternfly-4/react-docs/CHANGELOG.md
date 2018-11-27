@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="5.0.2"></a>
+## [5.0.2](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-docs@3.19.5...@breakaway/react-docs@5.0.2) (2018-11-27)
+
+
+### Bug Fixes
+
+* **docs:** release and update docs readme ([127bff7](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/127bff7))
+
+
+
+<a name="5.0.1"></a>
+## 5.0.1 (2018-11-27)
+
+
+
+
 <a name="5.0.1"></a>
 ## [5.0.1](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/v1.35.5...v5.0.1) (2018-11-27)
 

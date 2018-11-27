@@ -3,6 +3,68 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="5.0.4"></a>
+## [5.0.4](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@1.25.3...breakaway-patternfly4-react-lerna-root@5.0.4) (2018-11-27)
+
+
+### Bug Fixes
+
+* **docs:** release and update docs readme ([127bff7](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/127bff7))
+
+
+
+<a name="5.0.3"></a>
+## 5.0.3 (2018-11-27)
+
+
+### Bug Fixes
+
+* **update:** add additional regex to formatter ([8dee4ae](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/8dee4ae))
+
+
+
+<a name="5.0.2"></a>
+## 5.0.2 (2018-11-27)
+
+
+### Bug Fixes
+
+* **lerna:** remove package workspace ([c041c42](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/c041c42))
+
+
+
+<a name="5.0.1"></a>
+## 5.0.1 (2018-11-27)
+
+
+### Bug Fixes
+
+* **avatar:** test 3 ([ec9bd39](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/ec9bd39))
+
+
+
+<a name="1.35.5"></a>
+## 1.35.5 (2018-11-26)
+
+
+### Bug Fixes
+
+* **avatar:** modify ([c49e4f4](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/c49e4f4))
+
+
+
+<a name="1.35.4"></a>
+## 1.35.4 (2018-11-26)
+
+
+### Bug Fixes
+
+* **lerna:** not independent ([3cf80e2](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/3cf80e2))
+* **lerna:** use workspaces ([8b482e2](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/8b482e2))
+
+
+
+
 <a name="5.0.3"></a>
 ## [5.0.3](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/v5.0.2...v5.0.3) (2018-11-27)
 
