@@ -4,7 +4,7 @@ This package provides Core PatternFly components for the [PatternFly 4][patternf
 
 ### Prerequisite
 
-#### Node Environmen
+#### Node Environment
 
 This project currently supports Node [Active LTS](https://github.com/nodejs/Release#release-schedule) releases. Please stay current with Node Active LTS when developing patternfly-react.
 

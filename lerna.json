@@ -2,7 +2,8 @@
   "lerna": "2.11.0",
   "nohoist": [
     "gatsby*",
-    "babel*"
+    "babel*",
+    "@breakaway/react-docs/react*"
   ],
   "npmClient": "yarn",
   "publishConfig": {
@@ -35,8 +36,8 @@
     "packages/patternfly-4/react-styles",
     "packages/patternfly-4/react-tokens",
     "packages/eslint-plugin-patternfly-react/*",
-    "packages/react-codemods/*",
-    "packages/react-icons/*"
+    "packages/react-codemods",
+    "packages/react-icons"
   ],
   "useWorkspaces": true
 }
