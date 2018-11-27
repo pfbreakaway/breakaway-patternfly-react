@@ -2,8 +2,7 @@
   "lerna": "2.11.0",
   "nohoist": [
     "gatsby*",
-    "babel*",
-    "@breakaway/react-docs/react*"
+    "babel*"
   ],
   "npmClient": "yarn",
   "publishConfig": {
@@ -39,5 +38,5 @@
     "packages/react-codemods",
     "packages/react-icons"
   ],
-  "useWorkspaces": true
+  "useWorkspaces": false
 }
