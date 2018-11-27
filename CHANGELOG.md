@@ -3,13 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-<a name="1.35.5"></a>
-## [1.35.5](https://github.com/patternfly/patternfly-react/compare/v1.35.4...v1.35.5) (2018-11-26)
+<a name="5.0.1"></a>
+## [5.0.1](https://github.com/patternfly/patternfly-react/compare/v1.35.5...v5.0.1) (2018-11-27)
 
 
 ### Bug Fixes
 
-* **avatar:** modify ([c49e4f4](https://github.com/patternfly/patternfly-react/commit/c49e4f4))
+* **avatar:** test 3 ([ec9bd39](https://github.com/patternfly/patternfly-react/commit/ec9bd39))
+* **lerna:** packages ([5106358](https://github.com/patternfly/patternfly-react/commit/5106358))
+* **lerna:** test ([3098750](https://github.com/patternfly/patternfly-react/commit/3098750))
 
 
 

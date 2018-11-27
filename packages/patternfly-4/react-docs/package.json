@@ -1,7 +1,7 @@
 {
   "name": "@breakaway/react-docs",
   "description": "PatternFly React Docs",
-  "version": "3.19.5",
+  "version": "5.0.1",
   "author": "Red Hat",
   "license": "Apache-2.0",
   "publishConfig": {

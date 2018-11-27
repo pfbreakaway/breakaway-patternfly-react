@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="5.0.1"></a>
+## [5.0.1](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/v1.35.5...v5.0.1) (2018-11-27)
+
+
+### Bug Fixes
+
+* **avatar:** test 3 ([ec9bd39](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/ec9bd39))
+
+
+
+
 <a name="1.35.5"></a>
 ## [1.35.5](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/v1.35.4...v1.35.5) (2018-11-26)
 
