@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="5.0.5"></a>
+## [5.0.5](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@5.0.4...breakaway-patternfly4-react-lerna-root@5.0.5) (2018-11-28)
+
+
+### Bug Fixes
+
+* **core:** add additional ignore to lerna.json ([c4bf6e2](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/c4bf6e2))
+
+
+
+
 <a name="5.0.4"></a>
 ## [5.0.4](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@1.25.3...breakaway-patternfly4-react-lerna-root@5.0.4) (2018-11-27)
 
