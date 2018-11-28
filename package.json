@@ -78,6 +78,7 @@
     "lint": "lerna run lint --parallel",
     "lint:fix": "lerna run lint:fix --parallel",
     "prettier": "prettier --write 'storybook/**/*.js' 'packages/**/*.js' 'scripts/**/*.js'",
+    "postrelease": "node ./.travis/publish_github_release.js",
     "start": "yarn start:pf3",
     "start:pf3": "concurrently \"yarn storybook:run\" \"yarn storybook:openurl\"",
     "start:pf4": "lerna run develop --scope=@breakaway/react-docs --stream",
