@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="5.0.6"></a>
+## [5.0.6](https://github.com/patternfly/patternfly-react/compare/@breakaway/react-core@5.0.5...@breakaway/react-core@5.0.6) (2018-11-28)
+
+
+### Bug Fixes
+
+* **readme:** update readme spelling ([08af90a](https://github.com/patternfly/patternfly-react/commit/08af90a))
+
+
+
+
 <a name="5.0.5"></a>
 ## [5.0.5](https://github.com/patternfly/patternfly-react/compare/@breakaway/react-core@5.0.4...@breakaway/react-core@5.0.5) (2018-11-28)
 
