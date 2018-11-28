@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/patternfly/patternfly-react.git"
+    "url": "https://github.com/pfbreakaway/breakaway-patternfly-react.git"
   },
   "author": "Red Hat",
   "keywords": [
@@ -18,9 +18,9 @@
     "eslint"
   ],
   "bugs": {
-    "url": "https://github.com/patternfly/patternfly-react/issues"
+    "url": "https://github.com/pfbreakaway/breakaway-patternfly-react/issues"
   },
-  "homepage": "https://github.com/patternfly/patternfly-react/blob/master/packages/eslint-plugin/README.md",
+  "homepage": "https://github.com/pfbreakaway/breakaway-patternfly-react/blob/master/packages/eslint-plugin/README.md",
   "dependencies": {
     "babel-eslint": "^8.2.2",
     "eslint-config-airbnb": "^16.1.0",
