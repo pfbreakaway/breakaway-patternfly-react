@@ -39,7 +39,8 @@
     "packages/react-icons"
   ],
   "ignoreChanges": [
-    "packages/patternfly-4/package.json"
+    "packages/patternfly-4/package.json",
+    "packages/patternfly-4/CHANGELOG.md"
   ],
   "useWorkspaces": true
 }
