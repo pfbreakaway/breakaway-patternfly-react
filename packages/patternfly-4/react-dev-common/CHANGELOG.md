@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="5.0.7"></a>
+## [5.0.7](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@5.0.6...breakaway-patternfly4-react-lerna-root@5.0.7) (2018-11-28)
+
+
+### Bug Fixes
+
+* **dev:** move root package away from root ([f056b89](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/f056b89))
+
+
+
+
 <a name="5.0.6"></a>
 ## [5.0.6](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@5.0.5...breakaway-patternfly4-react-lerna-root@5.0.6) (2018-11-28)
 
