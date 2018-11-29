@@ -1,3 +1,10 @@
+# [@breakaway/react-core-v5.0.13](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.12...@breakaway/react-core@5.0.13) (2018-11-29)
+
+
+### Bug Fixes
+
+* **core:** alert ([ecba2eb](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/ecba2eb))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
