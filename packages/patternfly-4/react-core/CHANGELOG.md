@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.7](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.6...@breakaway/react-core@5.0.7) (2018-11-29)
+
+
+### Bug Fixes
+
+* **changelog and react-core avatar:** add lerna changelog/change avatar ([77f9bd4](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/77f9bd4))
+* **git:** update git links ([7573305](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/7573305))
+
+
+
+
+
 <a name="5.0.6"></a>
 ## [5.0.6](https://github.com/patternfly/patternfly-react/compare/@breakaway/react-core@5.0.5...@breakaway/react-core@5.0.6) (2018-11-28)
 

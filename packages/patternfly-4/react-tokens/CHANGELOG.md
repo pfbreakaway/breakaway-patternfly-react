@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.2](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-tokens@1.7.2...@breakaway/react-tokens@5.0.2) (2018-11-29)
+
+
+### Bug Fixes
+
+* **git:** update git links ([7573305](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/7573305))
+
+
+
+## 5.0.1 (2018-11-27)
+
+
+
+
+
 <a name="5.0.1"></a>
 ## [5.0.1](https://github.com/patternfly/patternfly-react/compare/v1.35.5...v5.0.1) (2018-11-27)
 
