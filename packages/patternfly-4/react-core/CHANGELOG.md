@@ -1,3 +1,10 @@
+# [@breakaway/react-core-v5.0.15](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.14...@breakaway/react-core@5.0.15) (2018-11-30)
+
+
+### Bug Fixes
+
+* **core:** tag with label ([b63b473](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/b63b473))
+
 # [@breakaway/react-core-v5.0.14](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.13...@breakaway/react-core@5.0.14) (2018-11-30)
 
 
