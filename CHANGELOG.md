@@ -3,6 +3,20 @@
 
 #### :bug: Bug Fix
 * `patternfly-4`
+  * [#22](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/22) fix(core): 3 ([@jschuler](https://github.com/jschuler))
+
+#### :house: Internal
+* [#21](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/21) chore(lerna): more options ([@jschuler](https://github.com/jschuler))
+* [#20](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/20) chore(root): lerna version ([@jschuler](https://github.com/jschuler))
+
+#### Committers: 1
+- Joachim ([@jschuler](https://github.com/jschuler))
+
+
+## @breakaway/react-core@5.0.17 (2018-11-30)
+
+#### :bug: Bug Fix
+* `patternfly-4`
   * [#19](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/19) fix(core): 2/2 ([@jschuler](https://github.com/jschuler))
   * [#18](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/18) fix(core): 1/2 ([@jschuler](https://github.com/jschuler))
 

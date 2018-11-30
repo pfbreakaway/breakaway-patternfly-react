@@ -1,43 +1,18 @@
-# [@breakaway/react-core-v5.0.17](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.16...@breakaway/react-core@5.0.17) (2018-11-30)
-
-
-### Bug Fixes
-
-* **core:** 1/2 ([f6ab8d3](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/f6ab8d3))
-* **core:** 2/2 ([09408be](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/09408be))
-
-# [@breakaway/react-core-v5.0.16](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.15...@breakaway/react-core@5.0.16) (2018-11-30)
-
-
-### Bug Fixes
-
-* **multiple:** eslint, styles, core ([755d32e](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/755d32e))
-
-# [@breakaway/react-core-v5.0.15](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.14...@breakaway/react-core@5.0.15) (2018-11-30)
-
-
-### Bug Fixes
-
-* **core:** tag with label ([b63b473](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/b63b473))
-
-# [@breakaway/react-core-v5.0.14](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.13...@breakaway/react-core@5.0.14) (2018-11-30)
-
-
-### Bug Fixes
-
-* **core:** change ([1791b69](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/1791b69))
-
-# [@breakaway/react-core-v5.0.13](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.12...@breakaway/react-core@5.0.13) (2018-11-29)
-
-
-### Bug Fixes
-
-* **core:** alert ([ecba2eb](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/ecba2eb))
-
 # Change Log
 
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [5.0.9](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.17...@breakaway/react-core@5.0.9) (2018-11-30)
+
+
+### Bug Fixes
+
+* **core:** 3 ([b5f4af5](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/b5f4af5))
+
+
+
+
 
 ## [5.0.8](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.7...@breakaway/react-core@5.0.8) (2018-11-29)
 
