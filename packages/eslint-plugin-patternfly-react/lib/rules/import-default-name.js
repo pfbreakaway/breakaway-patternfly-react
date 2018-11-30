@@ -27,7 +27,7 @@ module.exports = {
         if (expectedName && expectedName !== receivedName) {
           context.report({
             node,
-            message: 'Expected default import to be named "{{ expected }}" but received "{{ received }}"',
+            message: 'It was Expected default import to be named "{{ expected }}" but received "{{ received }}"',
             data: {
               expected: expectedName,
               received: receivedName
