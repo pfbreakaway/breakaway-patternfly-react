@@ -38,7 +38,7 @@ const defaultProps = {
   className: ''
 };
 
-const getDefaultAriaLabel = variant => `${capitalize(AlertVariant[variant])} Notification - Test 3`;
+const getDefaultAriaLabel = variant => `${capitalize(AlertVariant[variant])} Notification - Test 4`;
 
 const Alert = ({
   variant,
