@@ -1,0 +1,16 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "packages/eslint-plugin-patternfly-react/package.json",
+        "packages/patternfly-4/react-core/package.json",
+        "packages/patternfly-4/react-dev-common/package.json",
+        "packages/patternfly-4/react-docs/package.json",
+        "packages/patternfly-4/react-styles/package.json",
+        "packages/patternfly-4/react-tokens/package.json",
+        "packages/react-icons/package.json"
+      ]
+    }
+  }
+}
