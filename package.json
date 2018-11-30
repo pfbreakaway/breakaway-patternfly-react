@@ -77,7 +77,7 @@
     "generate": "yarn plop",
     "lerna": "lerna",
     "lerna:publish": "lerna publish --yes",
-    "lerna:version": "lerna version --conventional-commits --yes",
+    "lerna:version": "lerna version --conventional-commits --amend --no-git-tag-version",
     "lerna:changelog": "lerna-changelog --from=`git rev-list --max-parents=0 HEAD` > CHANGELOG.md && git add CHANGELOG.md",
     "lerna:postpublish": "node ./scripts/publishGithubRelease.js",
     "release": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo --tag-format='${LERNA_PACKAGE_NAME}@\\${version}'",
