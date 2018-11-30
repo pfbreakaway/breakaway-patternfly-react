@@ -1,6 +1,16 @@
 
 ## Change Log (2018-11-30)
 
+#### :rocket: New Feature
+* `eslint-plugin-patternfly-react`, `patternfly-4`
+  * [#16](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/16) fix(multiple): eslint, styles, core ([@jschuler](https://github.com/jschuler))
+
+#### Committers: 1
+- Joachim ([@jschuler](https://github.com/jschuler))
+
+
+## @breakaway/react-core@5.0.15 (2018-11-30)
+
 #### :bug: Bug Fix
 * `patternfly-4`
   * [#15](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/15) fix(core): tag with label ([@jschuler](https://github.com/jschuler))

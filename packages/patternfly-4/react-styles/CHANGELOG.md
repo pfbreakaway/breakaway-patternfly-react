@@ -1,3 +1,10 @@
+# [@breakaway/react-styles-v2.3.5](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-styles@2.3.4...@breakaway/react-styles@2.3.5) (2018-11-30)
+
+
+### Bug Fixes
+
+* **multiple:** eslint, styles, core ([755d32e](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/755d32e))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
