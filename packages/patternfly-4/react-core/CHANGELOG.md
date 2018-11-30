@@ -1,3 +1,10 @@
+# [@breakaway/react-core-v5.0.16](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.15...@breakaway/react-core@5.0.16) (2018-11-30)
+
+
+### Bug Fixes
+
+* **multiple:** eslint, styles, core ([755d32e](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/755d32e))
+
 # [@breakaway/react-core-v5.0.15](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.14...@breakaway/react-core@5.0.15) (2018-11-30)
 
 
