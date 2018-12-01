@@ -44,12 +44,12 @@
     "postbuild": "node ./build/copyStyles.js"
   },
   "optionalDependencies": {
-    "@breakaway/react-tokens": "^1.0.0"
+    "@breakaway/react-tokens": "^5.0.3"
   },
   "devDependencies": {
-    "@patternfly/patternfly-next": "1.0.69",
+    "@patternfly/patternfly-next": "1.0.88",
     "css": "^2.2.3",
-    "fs-extra": "^6.0.1",
+    "fs-extra": "^7.0.1",
     "glob": "^7.1.2",
     "npmlog": "^4.1.2"
   }
