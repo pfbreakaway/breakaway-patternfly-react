@@ -12,5 +12,9 @@
         "packages/react-icons/package.json"
       ]
     }
-  }
+  },
+  "ignore": [
+    "concurrently",
+    "istanbul*"
+  ]
 }
