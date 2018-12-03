@@ -1,3 +1,10 @@
+# [@breakaway/react-core-v5.0.19](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.18...@breakaway/react-core@5.0.19) (2018-12-03)
+
+
+### Bug Fixes
+
+* **core:** version of react-styles ([87b211b](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/87b211b))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
