@@ -76,7 +76,7 @@
     "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
     "generate": "yarn plop",
     "lerna": "lerna",
-    "lerna:publish": "lerna publish --yes",
+    "lerna:publish": "lerna publish from-package --yes",
     "lerna:version": "lerna version --conventional-commits --amend --no-git-tag-version --yes",
     "lerna:changelog": "lerna-changelog --from=`git rev-list --max-parents=0 HEAD` > CHANGELOG.md && git add CHANGELOG.md",
     "lerna:postpublish": "node ./scripts/publishGithubRelease.js",
