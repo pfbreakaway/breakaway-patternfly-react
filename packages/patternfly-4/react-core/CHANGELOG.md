@@ -1,3 +1,10 @@
+# [@breakaway/react-core-v5.1.2](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.1.1...@breakaway/react-core@5.1.2) (2018-12-03)
+
+
+### Bug Fixes
+
+* **core:** avatar ([98f597d](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/98f597d))
+
 # [@breakaway/react-core-v5.1.1](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.1.0...@breakaway/react-core@5.1.1) (2018-12-03)
 
 
