@@ -1,3 +1,5 @@
+# [@breakaway/react-styles-v2.4.0](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-styles@2.3.5...@breakaway/react-styles@2.4.0) (2018-12-03)
+
 # [@breakaway/react-styles-v2.3.5](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-styles@2.3.4...@breakaway/react-styles@2.3.5) (2018-11-30)
 
 
