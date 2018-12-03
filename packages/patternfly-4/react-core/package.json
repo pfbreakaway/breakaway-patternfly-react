@@ -26,7 +26,7 @@
   "homepage": "https://github.com/pfbreakaway/breakaway-patternfly-react#readme",
   "dependencies": {
     "@breakaway/react-icons": "^2.7.2",
-    "@breakaway/react-styles": "^5.0.4",
+    "@breakaway/react-styles": "^5.0.3",
     "exenv": "^1.2.2",
     "focus-trap-react": "^4.0.1"
   },
