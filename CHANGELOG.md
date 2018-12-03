@@ -1,4 +1,17 @@
 
+## Unreleased (2018-12-03)
+
+#### :rocket: New Feature
+* `patternfly-4`
+  * [#27](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/27) feat(core): label ([@jschuler](https://github.com/jschuler))
+
+#### :house: Internal
+* [#26](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/26) chore(deps): remove a dependency ([@jschuler](https://github.com/jschuler))
+
+#### Committers: 1
+- Joachim ([@jschuler](https://github.com/jschuler))
+
+
 ## @breakaway/react-core@5.0.18 (2018-11-30)
 
 #### :bug: Bug Fix

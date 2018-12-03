@@ -1,3 +1,10 @@
+# [@breakaway/react-core-v5.1.0](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.19...@breakaway/react-core@5.1.0) (2018-12-03)
+
+
+### Features
+
+* **core:** label ([7c61baf](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/7c61baf))
+
 # [@breakaway/react-core-v5.0.19](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.18...@breakaway/react-core@5.0.19) (2018-12-03)
 
 
