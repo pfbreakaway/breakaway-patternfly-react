@@ -78,7 +78,7 @@
     "lerna": "lerna",
     "lerna:publish": "lerna publish from-package --yes",
     "lerna:version": "lerna version --conventional-commits --amend --no-git-tag-version --yes",
-    "lerna:changelog": "lerna-changelog --from=`git rev-list --max-parents=0 HEAD` > CHANGELOG.md && git add CHANGELOG.md && git commit -m `chore(changelog): updating changelog` && git push",
+    "lerna:changelog": "lerna-changelog --from=`git rev-list --max-parents=0 HEAD` > CHANGELOG.md && git add CHANGELOG.md",
     "lerna:postpublish": "node ./scripts/publishGithubRelease.js",
     "release": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo --tag-format='${LERNA_PACKAGE_NAME}@\\${version}'",
     "commitmsg": "commitlint -e $GIT_PARAMS",
@@ -112,6 +112,14 @@
     "prepare": [
       "@semantic-release/changelog",
       "@semantic-release/git"
+    ],
+    "plugins": [
+      [
+        "@semantic-release/exec",
+        {
+          "prepareCmd": "npm run lerna:changelog"
+        }
+      ]
     ]
   },
   "jest": {
