@@ -106,17 +106,21 @@
     ]
   },
   "release": {
+    "monorepo": {
+      "prepare": [
+        {
+          "path": "@semantic-release/exec",
+          "prepareCmd": "npm run lerna:changelog"
+        }
+      ]
+    },
     "verifyConditions": [
       "@semantic-release/changelog",
       "@semantic-release/git"
     ],
     "prepare": [
       "@semantic-release/changelog",
-      "@semantic-release/git",
-      {
-        "path": "@semantic-release/exec",
-        "prepareCmd": "npm run lerna:changelog"
-      }
+      "@semantic-release/git"
     ]
   },
   "jest": {
