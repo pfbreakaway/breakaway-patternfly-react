@@ -111,9 +111,7 @@
     ],
     "prepare": [
       "@semantic-release/changelog",
-      "@semantic-release/git"
-    ],
-    "plugins": [
+      "@semantic-release/git",
       [
         "@semantic-release/exec",
         {
