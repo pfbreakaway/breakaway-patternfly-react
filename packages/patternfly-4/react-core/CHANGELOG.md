@@ -5,6 +5,13 @@
 
 * **core:** random change ([8942161](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/8942161))
 
+# [@breakaway/react-core-v5.1.3](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.1.2...@breakaway/react-core@5.1.3) (2018-12-03)
+
+
+### Bug Fixes
+
+* **core:** random change ([8942161](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/8942161))
+
 # [@breakaway/react-core-v5.1.2](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.1.1...@breakaway/react-core@5.1.2) (2018-12-03)
 
 
