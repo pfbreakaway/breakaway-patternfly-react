@@ -106,7 +106,6 @@
     ]
   },
   "release": {
-    "analyzeCommits": "semantic-release-conventional-commits",
     "verifyConditions": [
       "@semantic-release/changelog",
       "@semantic-release/git"
