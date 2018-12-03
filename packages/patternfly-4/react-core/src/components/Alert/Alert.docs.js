@@ -16,7 +16,7 @@ export default {
   examples: [
     {
       component: SuccessExample,
-      title: 'Success Alert dec3 - 12:51PM',
+      title: 'Success Alert dec3 - 3:30PM',
       getContainerProps
     },
     {
