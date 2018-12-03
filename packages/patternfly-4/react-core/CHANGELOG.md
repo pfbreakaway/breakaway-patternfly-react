@@ -1,3 +1,10 @@
+# [@breakaway/react-core-v5.1.1](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.1.0...@breakaway/react-core@5.1.1) (2018-12-03)
+
+
+### Bug Fixes
+
+* **core:** direct commit without PR label ([1ba7fe5](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/1ba7fe5))
+
 # [@breakaway/react-core-v5.1.0](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@5.0.19...@breakaway/react-core@5.1.0) (2018-12-03)
 
 

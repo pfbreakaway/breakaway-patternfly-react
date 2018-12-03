@@ -1,5 +1,5 @@
 
-## Unreleased (2018-12-03)
+## @breakaway/react-core@5.1.0 (2018-12-03)
 
 #### :rocket: New Feature
 * `patternfly-4`
