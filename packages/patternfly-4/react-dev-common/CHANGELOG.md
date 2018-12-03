@@ -1,3 +1,5 @@
+# [breakaway-patternfly4-react-lerna-root-v5.1.0](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@5.0.7...breakaway-patternfly4-react-lerna-root@5.1.0) (2018-12-03)
+
 # Change Log
 
 All notable changes to this project will be documented in this file.

@@ -1,5 +1,5 @@
 
-## Change Log (2018-11-30)
+## @breakaway/react-core@5.0.18 (2018-11-30)
 
 #### :bug: Bug Fix
 * `patternfly-4`
