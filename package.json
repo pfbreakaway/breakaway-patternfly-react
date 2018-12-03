@@ -112,12 +112,10 @@
     "prepare": [
       "@semantic-release/changelog",
       "@semantic-release/git",
-      [
-        "@semantic-release/exec",
-        {
-          "prepareCmd": "npm run lerna:changelog"
-        }
-      ]
+      {
+        "path": "@semantic-release/exec",
+        "prepareCmd": "npm run lerna:changelog"
+      }
     ]
   },
   "jest": {
