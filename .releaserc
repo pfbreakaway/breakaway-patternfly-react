@@ -1,8 +1,0 @@
-{
-  "verifyConditions": [
-      "@semantic-release/git"
-    ],
-  "prepare": [
-      "@semantic-release/git"
-    ]
-}

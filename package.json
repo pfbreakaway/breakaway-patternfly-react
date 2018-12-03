@@ -57,6 +57,7 @@
     "react-dom": "^16.3.0",
     "remark-parse": "^6.0.3",
     "semantic-release": "15.9.17",
+    "semantic-release-conventional-commits": "^2.0.1",
     "semantic-release-monorepo": "^6.1.1",
     "travis-deploy-once": "^5.0.9",
     "unified": "^7.0.2"
@@ -102,6 +103,17 @@
   "commitlint": {
     "extends": [
       "@commitlint/config-conventional"
+    ]
+  },
+  "release": {
+    "analyzeCommits": "semantic-release-conventional-commits",
+    "verifyConditions": [
+      "@semantic-release/changelog",
+      "@semantic-release/git"
+    ],
+    "prepare": [
+      "@semantic-release/changelog",
+      "@semantic-release/git"
     ]
   },
   "jest": {

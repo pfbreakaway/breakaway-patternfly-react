@@ -637,6 +637,22 @@
   version "2.7.2"
   resolved "https://registry.yarnpkg.com/@breakaway/react-icons/-/react-icons-2.7.2.tgz#29b64fe2bfabd5b44dd9b91e169384a8466c4d0e"
 
+"@breakaway/react-styles@^5.0.4":
+  version "5.0.3"
+  dependencies:
+    "@babel/helper-plugin-utils" "^7.0.0-beta.48"
+    camel-case "^3.0.0"
+    css "^2.2.3"
+    cssom "^0.3.4"
+    cssstyle "^0.3.1"
+    emotion "^9.2.6"
+    emotion-server "^9.2.6"
+    fbjs-scripts "^0.8.3"
+    fs-extra "^6.0.1"
+    jsdom "^11.11.0"
+    relative "^3.0.2"
+    resolve-from "^4.0.0"
+
 "@breakaway/react-tokens@^1.0.0":
   version "1.7.2"
   resolved "https://registry.yarnpkg.com/@breakaway/react-tokens/-/react-tokens-1.7.2.tgz#e2b4f451deec92e75766c27d23c453b5e5e55838"
@@ -14084,6 +14100,12 @@ scroll-behavior@^0.9.9:
 select@^1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/select/-/select-1.1.2.tgz#0e7350acdec80b1108528786ec1d4418d11b396d"
+
+semantic-release-conventional-commits@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/semantic-release-conventional-commits/-/semantic-release-conventional-commits-2.0.1.tgz#825020aa8455992b5fdb164fdd316e2048a36546"
+  dependencies:
+    conventional-commits-parser "^3.0.0"
 
 semantic-release-monorepo@^6.1.1:
   version "6.1.1"
