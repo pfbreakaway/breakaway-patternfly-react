@@ -105,6 +105,22 @@
       "@commitlint/config-conventional"
     ]
   },
+  "release": {
+    "verifyConditions": [],
+    "analyzeCommits": [
+      "@semantic-release/commit-analyzer​"
+    ],
+    "verifyRelease": [],
+    "generateNotes": [
+      "@semantic-release/release-notes-generator​"
+    ],
+    "prepare": [],
+    "publish": [
+      "@semantic-release/github​"
+    ],
+    "success": [],
+    "fail": []
+  },
   "jest": {
     "collectCoverage": true,
     "clearMocks": true,
