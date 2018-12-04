@@ -1,8 +1,6 @@
 language: node_js
 sudo: required
 cache: yarn
-deploy:
-  skip_cleanup: true
 env:
   global:
   - ENCRYPTION_LABEL: "b601314e09dc"
@@ -24,6 +22,7 @@ script:
 - yarn build
 after_success:
 - .travis/after_success.sh
+- npm run lerna:changelog
 git:
   depth: 1
 branches:
