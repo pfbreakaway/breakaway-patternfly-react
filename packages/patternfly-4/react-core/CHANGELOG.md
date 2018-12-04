@@ -1,3 +1,10 @@
+# [@breakaway/react-core-v6.1.0](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@6.0.3...@breakaway/react-core@6.1.0) (2018-12-04)
+
+
+### Features
+
+* **avatar:** not really ([a6582ba](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/a6582ba))
+
 # [@breakaway/react-core-v6.0.3](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@6.0.2...@breakaway/react-core@6.0.3) (2018-12-04)
 
 
