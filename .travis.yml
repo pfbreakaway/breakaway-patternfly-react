@@ -22,8 +22,6 @@ script:
 - yarn build
 after_success:
 - .travis/after_success.sh
-- export GITHUB_AUTH="${GH_TOKEN}"
-- npm run lerna:changelog
 git:
   depth: 1
 branches:
