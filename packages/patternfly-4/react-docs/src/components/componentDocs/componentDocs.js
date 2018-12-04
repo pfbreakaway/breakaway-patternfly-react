@@ -8,7 +8,7 @@ import { Title } from '@breakaway/react-core';
 import PropsTable from '../propsTable';
 import Section from '../section';
 
-// asd
+// asdasd
 
 const propTypes = {
   title: PropTypes.string.isRequired,
