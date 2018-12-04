@@ -1,4 +1,14 @@
 
+## @breakaway/react-core@6.1.2 (2018-12-04)
+
+#### :bug: Bug Fix
+* `patternfly-4`
+  * [#29](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/29) fix: core ([@jschuler](https://github.com/jschuler))
+
+#### Committers: 1
+- Joachim ([@jschuler](https://github.com/jschuler))
+
+
 ## @breakaway/react-core@6.0.2 (2018-12-04)
 
 #### :bug: Bug Fix
