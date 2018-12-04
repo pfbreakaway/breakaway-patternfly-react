@@ -119,7 +119,9 @@
       "@semantic-release/git"
     ],
     "publish": [
-      "@semantic-release/github​"
+      {
+        "path": "@semantic-release/github​"
+      }
     ]
   },
   "jest": {
