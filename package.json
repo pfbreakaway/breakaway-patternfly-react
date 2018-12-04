@@ -118,6 +118,14 @@
         }
       ],
       "@semantic-release/git"
+    ],
+    "verifyConditions": [
+      "@semantic-release/changelog",
+      "@semantic-release/git"
+    ],
+    "prepare": [
+      "@semantic-release/changelog",
+      "@semantic-release/git"
     ]
   },
   "jest": {
