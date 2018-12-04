@@ -1,6 +1,8 @@
 language: node_js
 sudo: required
 cache: yarn
+deploy:
+  skip_cleanup: true
 env:
   global:
   - ENCRYPTION_LABEL: "b601314e09dc"
