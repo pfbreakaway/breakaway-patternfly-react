@@ -107,20 +107,18 @@
     ]
   },
   "release": {
-    "verifyConditions": [],
-    "analyzeCommits": [
-      "@semantic-release/commit-analyzer​"
-    ],
-    "verifyRelease": [],
-    "generateNotes": [
-      "@semantic-release/release-notes-generator​"
-    ],
-    "prepare": [],
-    "publish": [
-      "@semantic-release/github​"
-    ],
-    "success": [],
-    "fail": []
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      [
+        "@semantic-release/npm",
+        {
+          "npmPublish": false
+        }
+      ],
+      "@semantic-release/git"
+    ]
   },
   "jest": {
     "collectCoverage": true,
