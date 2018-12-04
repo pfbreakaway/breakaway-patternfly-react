@@ -29,6 +29,7 @@
     "@semantic-release/commit-analyzer": "^6.1.0",
     "@semantic-release/exec": "^3.3.0",
     "@semantic-release/git": "^7.0.5",
+    "@semantic-release/github": "^5.2.5",
     "change-case": "^3.0.2",
     "concurrently": "^3.5.1",
     "coveralls": "^3.0.0",
