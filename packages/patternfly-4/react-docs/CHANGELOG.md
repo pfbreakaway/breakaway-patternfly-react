@@ -1,3 +1,10 @@
+# [@breakaway/react-docs-v5.1.1](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-docs@5.1.0...@breakaway/react-docs@5.1.1) (2018-12-04)
+
+
+### Bug Fixes
+
+* core and docs ([a65d7bb](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/a65d7bb))
+
 # [@breakaway/react-docs-v5.1.0](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-docs@5.0.3...@breakaway/react-docs@5.1.0) (2018-12-03)
 
 # Change Log
