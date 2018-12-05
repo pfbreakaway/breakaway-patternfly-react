@@ -1,3 +1,10 @@
+# [@breakaway/react-core-v6.1.4](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@6.1.3...@breakaway/react-core@6.1.4) (2018-12-05)
+
+
+### Bug Fixes
+
+* core ([06b8f57](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/06b8f57))
+
 # [@breakaway/react-core-v6.1.3](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@6.1.2...@breakaway/react-core@6.1.3) (2018-12-04)
 
 
