@@ -76,7 +76,7 @@
     "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
     "generate": "yarn plop",
     "lerna": "lerna",
-    "lerna:changelog": "lerna-changelog --from=`git rev-list --max-parents=0 HEAD` > CHANGELOG.md && git add CHANGELOG.md && git commit -m 'chore(changelog): update changelog [skip ci]' && git push",
+    "lerna:changelog": "lerna-changelog --from=`git rev-list --max-parents=0 HEAD` > CHANGELOG.md && git add CHANGELOG.md && git commit -m 'chore(postrelease): changelog [skip ci]' && git push",
     "release": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo --tag-format='${LERNA_PACKAGE_NAME}@\\${version}'",
     "commitmsg": "commitlint -e $GIT_PARAMS",
     "lint": "lerna run lint --parallel",
