@@ -1,4 +1,14 @@
 
+## @breakaway/react-core@6.1.5 (2018-12-05)
+
+#### :boom: Breaking Change
+* `patternfly-4`
+  * [#33](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/33) fix: breaking change in core ([@jschuler](https://github.com/jschuler))
+
+#### Committers: 1
+- Joachim ([@jschuler](https://github.com/jschuler))
+
+
 ## @breakaway/react-core@6.1.4 (2018-12-05)
 
 #### :bug: Bug Fix
