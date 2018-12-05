@@ -112,6 +112,7 @@
       "@semantic-release/npm",
       "@semantic-release/git"
     ],
+    "tagFormat": "${version}",
     "npmPublish": false
   },
   "jest": {
