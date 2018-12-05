@@ -1,5 +1,5 @@
 
-## Unreleased (2018-12-05)
+## @breakaway/react-core@6.1.4 (2018-12-05)
 
 #### :bug: Bug Fix
 * `patternfly-4`
