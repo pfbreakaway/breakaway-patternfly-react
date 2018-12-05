@@ -1,4 +1,14 @@
 
+## Unreleased (2018-12-05)
+
+#### :house: Internal
+* `patternfly-4`, `react-icons`
+  * [#31](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/31) chore: root, core, icons ([@jschuler](https://github.com/jschuler))
+
+#### Committers: 1
+- Joachim ([@jschuler](https://github.com/jschuler))
+
+
 ## @breakaway/react-docs@5.1.1 (2018-12-04)
 
 #### :bug: Bug Fix
