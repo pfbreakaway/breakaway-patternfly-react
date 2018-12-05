@@ -1,7 +1,13 @@
 
 ## Unreleased (2018-12-05)
 
+#### :bug: Bug Fix
+* `patternfly-4`
+  * [#32](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/32) Multi 3 ([@jschuler](https://github.com/jschuler))
+
 #### :house: Internal
+* `patternfly-4`
+  * [#32](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/32) Multi 3 ([@jschuler](https://github.com/jschuler))
 * `patternfly-4`, `react-icons`
   * [#31](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/31) chore: root, core, icons ([@jschuler](https://github.com/jschuler))
 
