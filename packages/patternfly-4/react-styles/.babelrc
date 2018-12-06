@@ -1,3 +1,5 @@
 {
-  "presets": ["../.babelrc.js"]
+  "presets": [
+    "../react-dev-common/.babelrc.js"
+  ]
 }
