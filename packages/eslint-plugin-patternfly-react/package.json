@@ -1,6 +1,6 @@
 {
   "name": "breakaway-eslint-plugin-patternfly-react",
-  "version": "1.0.0",
+  "version": "0.2.0",
   "private": false,
   "main": "./lib/index.js",
   "license": "Apache-2.0",

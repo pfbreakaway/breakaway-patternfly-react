@@ -1,197 +1,151 @@
-# [breakaway-patternfly4-react-lerna-root-v5.1.0](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@5.0.7...breakaway-patternfly4-react-lerna-root@5.1.0) (2018-12-03)
-
 # Change Log
 
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-<a name="5.0.7"></a>
-## [5.0.7](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@5.0.6...breakaway-patternfly4-react-lerna-root@5.0.7) (2018-11-28)
+<a name="1.28.5"></a>
+## [1.28.5](https://github.com/patternfly/patternfly-react/compare/patternfly4-react-lerna-root@1.28.4...patternfly4-react-lerna-root@1.28.5) (2018-12-05)
 
 
 ### Bug Fixes
 
-* **dev:** move root package away from root ([f056b89](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/f056b89))
+* **Badge:** remove margin between badges to match core ([#1001](https://github.com/patternfly/patternfly-react/issues/1001)) ([62ece9b](https://github.com/patternfly/patternfly-react/commit/62ece9b))
 
 
 
 
-<a name="5.0.6"></a>
-## [5.0.6](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@5.0.5...breakaway-patternfly4-react-lerna-root@5.0.6) (2018-11-28)
-
-
-### Bug Fixes
-
-* **core:** add publish script to fix release notes ([7369bf5](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/7369bf5))
-* **package:** add name field back ([40a2c97](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/40a2c97))
-
-
-
-
-<a name="5.0.5"></a>
-## [5.0.5](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@5.0.4...breakaway-patternfly4-react-lerna-root@5.0.5) (2018-11-28)
+<a name="1.28.4"></a>
+## [1.28.4](https://github.com/patternfly/patternfly-react/compare/patternfly4-react-lerna-root@1.28.3...patternfly4-react-lerna-root@1.28.4) (2018-11-30)
 
 
 ### Bug Fixes
 
-* **core:** add additional ignore to lerna.json ([c4bf6e2](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/c4bf6e2))
+* **LoginPage:** typos ([#988](https://github.com/patternfly/patternfly-react/issues/988)) ([fb61a15](https://github.com/patternfly/patternfly-react/commit/fb61a15))
 
 
 
 
-<a name="5.0.4"></a>
-## [5.0.4](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@1.25.3...breakaway-patternfly4-react-lerna-root@5.0.4) (2018-11-27)
-
-
-### Bug Fixes
-
-* **docs:** release and update docs readme ([127bff7](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/127bff7))
-
-
-
-<a name="5.0.3"></a>
-## 5.0.3 (2018-11-27)
+<a name="1.28.3"></a>
+## [1.28.3](https://github.com/patternfly/patternfly-react/compare/patternfly4-react-lerna-root@1.28.2...patternfly4-react-lerna-root@1.28.3) (2018-11-30)
 
 
 ### Bug Fixes
 
-* **update:** add additional regex to formatter ([8dee4ae](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/8dee4ae))
+* **a11y:** tweak html for better accessibility ([#917](https://github.com/patternfly/patternfly-react/issues/917)) ([c1af473](https://github.com/patternfly/patternfly-react/commit/c1af473))
 
 
 
-<a name="5.0.2"></a>
-## 5.0.2 (2018-11-27)
 
-
-### Bug Fixes
-
-* **lerna:** remove package workspace ([c041c42](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/c041c42))
+<a name="1.28.2"></a>
+## [1.28.2](https://github.com/patternfly/patternfly-react/compare/patternfly4-react-lerna-root@1.28.1...patternfly4-react-lerna-root@1.28.2) (2018-11-30)
 
 
 
-<a name="5.0.1"></a>
-## 5.0.1 (2018-11-27)
 
+**Note:** Version bump only for package patternfly4-react-lerna-root
 
-### Bug Fixes
-
-* **avatar:** test 3 ([ec9bd39](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/ec9bd39))
-
-
-
-<a name="1.35.5"></a>
-## 1.35.5 (2018-11-26)
+<a name="1.28.1"></a>
+## [1.28.1](https://github.com/patternfly/patternfly-react/compare/patternfly4-react-lerna-root@1.28.0...patternfly4-react-lerna-root@1.28.1) (2018-11-28)
 
 
 ### Bug Fixes
 
-* **avatar:** modify ([c49e4f4](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/c49e4f4))
-
-
-
-<a name="1.35.4"></a>
-## 1.35.4 (2018-11-26)
-
-
-### Bug Fixes
-
-* **lerna:** not independent ([3cf80e2](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/3cf80e2))
-* **lerna:** use workspaces ([8b482e2](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/8b482e2))
+* **Dropdown:** Apply `pf-m-plain` modifier to dropdown toggle element instead of wrapper ([#954](https://github.com/patternfly/patternfly-react/issues/954)) ([4e3afdb](https://github.com/patternfly/patternfly-react/commit/4e3afdb))
 
 
 
 
-<a name="5.0.3"></a>
-## [5.0.3](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/v5.0.2...v5.0.3) (2018-11-27)
+<a name="1.28.0"></a>
+# [1.28.0](https://github.com/patternfly/patternfly-react/compare/patternfly4-react-lerna-root@1.27.3...patternfly4-react-lerna-root@1.28.0) (2018-11-28)
 
 
-### Bug Fixes
+### Features
 
-* **update:** add additional regex to formatter ([8dee4ae](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/8dee4ae))
-
-
+* **Progress:** use max parameter to scale value of progress bar ([#950](https://github.com/patternfly/patternfly-react/issues/950)) ([52a6b6d](https://github.com/patternfly/patternfly-react/commit/52a6b6d))
 
 
-<a name="5.0.2"></a>
-## [5.0.2](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/v5.0.1...v5.0.2) (2018-11-27)
+
+
+<a name="1.27.3"></a>
+## [1.27.3](https://github.com/patternfly/patternfly-react/compare/patternfly4-react-lerna-root@1.27.2...patternfly4-react-lerna-root@1.27.3) (2018-11-28)
+
+
+
+
+**Note:** Version bump only for package patternfly4-react-lerna-root
+
+<a name="1.27.2"></a>
+## [1.27.2](https://github.com/patternfly/patternfly-react/compare/patternfly4-react-lerna-root@1.27.0...patternfly4-react-lerna-root@1.27.2) (2018-11-27)
 
 
 ### Bug Fixes
 
-* **lerna:** remove package workspace ([c041c42](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/c041c42))
+* **pagelayoutdemo:** Fix several issues in the PF4 pagelayoutdemo ([#969](https://github.com/patternfly/patternfly-react/issues/969)) ([6bcef8b](https://github.com/patternfly/patternfly-react/commit/6bcef8b))
+* **Radio:** Updated Radio aria-label prop so that it is optional ([#930](https://github.com/patternfly/patternfly-react/issues/930)) ([a3e74fa](https://github.com/patternfly/patternfly-react/commit/a3e74fa)), closes [#803](https://github.com/patternfly/patternfly-react/issues/803)
 
 
 
 
-<a name="5.0.1"></a>
-## [5.0.1](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/v1.35.5...v5.0.1) (2018-11-27)
-
-
-### Bug Fixes
-
-* **avatar:** test 3 ([ec9bd39](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/ec9bd39))
-
-
-
-
-<a name="1.35.5"></a>
-## [1.35.5](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/v1.35.4...v1.35.5) (2018-11-26)
+<a name="1.27.1"></a>
+## [1.27.1](https://github.com/patternfly/patternfly-react/compare/patternfly4-react-lerna-root@1.27.0...patternfly4-react-lerna-root@1.27.1) (2018-11-27)
 
 
 ### Bug Fixes
 
-* **avatar:** modify ([c49e4f4](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/c49e4f4))
+* **pagelayoutdemo:** Fix several issues in the PF4 pagelayoutdemo ([#969](https://github.com/patternfly/patternfly-react/issues/969)) ([6bcef8b](https://github.com/patternfly/patternfly-react/commit/6bcef8b))
 
 
 
 
-<a name="1.35.4"></a>
-## 1.35.4 (2018-11-26)
+<a name="1.27.0"></a>
+# [1.27.0](https://github.com/patternfly/patternfly-react/compare/patternfly4-react-lerna-root@1.26.1...patternfly4-react-lerna-root@1.27.0) (2018-11-27)
 
 
-### Bug Fixes
+### Features
 
-* **core:** alert label ([fc0ecdf](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/fc0ecdf))
-* **lerna:** not independent ([3cf80e2](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/3cf80e2))
-* **lerna:** remove conventionalcommits ([04409f9](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/04409f9))
-* **lerna:** use workspaces ([8b482e2](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/8b482e2))
-* **pkgs:** attempt to release only sub packages ([ebf4b93](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/ebf4b93))
-* **release:** test releases with readme and icon updates ([472bab2](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/472bab2))
+* **breadcrumb:** adds breadcrumb, breadcrumbItem components ([#872](https://github.com/patternfly/patternfly-react/issues/872)) ([bcd2954](https://github.com/patternfly/patternfly-react/commit/bcd2954)), closes [#856](https://github.com/patternfly/patternfly-react/issues/856)
+* **Popover:** Add PF4 Popover ([#754](https://github.com/patternfly/patternfly-react/issues/754)) ([17cf0c0](https://github.com/patternfly/patternfly-react/commit/17cf0c0))
 
 
 
 
-<a name="1.25.3"></a>
-## [1.25.3](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@1.25.2...breakaway-patternfly4-react-lerna-root@1.25.3) (2018-11-26)
+<a name="1.26.1"></a>
+## [1.26.1](https://github.com/patternfly/patternfly-react/compare/patternfly4-react-lerna-root@1.26.0...patternfly4-react-lerna-root@1.26.1) (2018-11-21)
 
 
-### Bug Fixes
 
-* **core:** alert label ([fc0ecdf](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/fc0ecdf))
-* **lerna:** remove conventionalcommits ([04409f9](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/04409f9))
-* **pkgs:** attempt to release only sub packages ([ebf4b93](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/ebf4b93))
+
+**Note:** Version bump only for package patternfly4-react-lerna-root
+
+<a name="1.26.0"></a>
+# [1.26.0](https://github.com/patternfly/patternfly-react/compare/patternfly4-react-lerna-root@1.25.2...patternfly4-react-lerna-root@1.26.0) (2018-11-20)
+
+
+### Features
+
+* **PF4 Page:** Allow passing of custom ref for condensed header ([#941](https://github.com/patternfly/patternfly-react/issues/941)) ([889ec1a](https://github.com/patternfly/patternfly-react/commit/889ec1a))
 
 
 
 
 <a name="1.25.2"></a>
-## [1.25.2](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@1.25.1...breakaway-patternfly4-react-lerna-root@1.25.2) (2018-11-26)
+## [1.25.2](https://github.com/patternfly/patternfly-react/compare/patternfly4-react-lerna-root@1.25.1...patternfly4-react-lerna-root@1.25.2) (2018-11-20)
 
 
 ### Bug Fixes
 
-* **release:** test releases with readme and icon updates ([472bab2](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/472bab2))
+* **dropdown:** address typescript issue with toggle prop ([#935](https://github.com/patternfly/patternfly-react/issues/935)) ([8341297](https://github.com/patternfly/patternfly-react/commit/8341297))
 
 
 
 
 <a name="1.25.1"></a>
-## 1.25.1 (2018-11-26)
+## [1.25.1](https://github.com/patternfly/patternfly-react/compare/patternfly4-react-lerna-root@1.25.0...patternfly4-react-lerna-root@1.25.1) (2018-11-16)
 
 
 
 
-**Note:** Version bump only for package breakaway-patternfly4-react-lerna-root
+**Note:** Version bump only for package patternfly4-react-lerna-root
 
 <a name="1.25.0"></a>
 # [1.25.0](https://github.com/patternfly/patternfly-react/compare/patternfly4-react-lerna-root@1.24.0...patternfly4-react-lerna-root@1.25.0) (2018-11-15)
@@ -215,7 +169,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Features
 
-* **pf4-table:** Introduce new package [@breakaway](https://github.com/patternfly)/react-table for table implementation ([#899](https://github.com/patternfly/patternfly-react/issues/899)) ([9cee1ad](https://github.com/patternfly/patternfly-react/commit/9cee1ad))
+* **pf4-table:** Introduce new package [@patternfly](https://github.com/patternfly)/react-table for table implementation ([#899](https://github.com/patternfly/patternfly-react/issues/899)) ([9cee1ad](https://github.com/patternfly/patternfly-react/commit/9cee1ad))
 
 
 
@@ -835,7 +789,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Bug Fixes
 
-* **@breakaway/react-core:** Update the snapshot for progress bar component ([#722](https://github.com/patternfly/patternfly-react/issues/722)) ([b555243](https://github.com/patternfly/patternfly-react/commit/b555243))
+* **@patternfly/react-core:** Update the snapshot for progress bar component ([#722](https://github.com/patternfly/patternfly-react/issues/722)) ([b555243](https://github.com/patternfly/patternfly-react/commit/b555243))
 * **Alert:** Use the correct css class name for screen readers ([#713](https://github.com/patternfly/patternfly-react/issues/713)) ([9c313d2](https://github.com/patternfly/patternfly-react/commit/9c313d2)), closes [#601](https://github.com/patternfly/patternfly-react/issues/601)
 
 
