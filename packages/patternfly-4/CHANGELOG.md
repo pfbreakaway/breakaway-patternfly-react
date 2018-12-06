@@ -1,3 +1,10 @@
+# [breakaway-patternfly4-react-lerna-root-v10.0.4](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@10.0.3...breakaway-patternfly4-react-lerna-root@10.0.4) (2018-12-06)
+
+
+### Bug Fixes
+
+* root/core post workspaces ([5f0f0d9](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/5f0f0d9))
+
 # [breakaway-patternfly4-react-lerna-root-v10.0.3](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@10.0.2...breakaway-patternfly4-react-lerna-root@10.0.3) (2018-12-06)
 
 
