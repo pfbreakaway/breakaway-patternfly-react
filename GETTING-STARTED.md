@@ -1,4 +1,4 @@
-# 3
+# 4
 # PatternFly React Getting Started
 
 This README is intended to further detail some of the steps mentioned in the PatternFly React [Contributing Guide](./CONTRIBUTING.md#code-consistency) and help new contributors getting started with PatternFly React.
