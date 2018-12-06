@@ -1,3 +1,10 @@
+# [@breakaway/react-core-v10.0.3](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@10.0.2...@breakaway/react-core@10.0.3) (2018-12-06)
+
+
+### Bug Fixes
+
+* root/core post semantic-release ([aa5b25e](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/aa5b25e))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
