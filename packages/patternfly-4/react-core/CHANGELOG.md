@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="10.0.2"></a>
+## [10.0.2](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@10.0.1...@breakaway/react-core@10.0.2) (2018-12-06)
+
+
+### Bug Fixes
+
+* root/core ([24fbe72](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/24fbe72))
+
+
+
+
 <a name="10.0.1"></a>
 ## [10.0.1](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@10.0.0...@breakaway/react-core@10.0.1) (2018-12-06)
 
