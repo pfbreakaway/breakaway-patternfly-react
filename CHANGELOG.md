@@ -1,4 +1,14 @@
 
+## @breakaway/react-core@10.0.5 (2018-12-06)
+
+#### :bug: Bug Fix
+* `patternfly-4`
+  * [#40](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/40) fix: root/core after subfolder ([@jschuler](https://github.com/jschuler))
+
+#### Committers: 1
+- Joachim ([@jschuler](https://github.com/jschuler))
+
+
 ## breakaway-patternfly4-react-lerna-root@10.0.4 (2018-12-06)
 
 #### :bug: Bug Fix
