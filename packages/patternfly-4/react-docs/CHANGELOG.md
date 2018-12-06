@@ -1,16 +1,15 @@
-# @breakaway/react-docs-v1.0.0 (2018-12-06)
-
-
-### Bug Fixes
-
-* **docs:** release and update docs readme ([127bff7](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/127bff7))
-* **random:** docs and styles ([cf44673](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/cf44673))
-* core and docs ([a65d7bb](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/a65d7bb))
-
 # Change Log
 
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+<a name="10.0.1"></a>
+## [10.0.1](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-docs@10.0.0...@breakaway/react-docs@10.0.1) (2018-12-06)
+
+
+
+
+**Note:** Version bump only for package @breakaway/react-docs
 
 <a name="3.19.18"></a>
 ## [3.19.18](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-docs@3.19.17...@patternfly/react-docs@3.19.18) (2018-12-05)

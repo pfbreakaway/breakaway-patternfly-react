@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="10.0.1"></a>
+## [10.0.1](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-tokens@10.0.0...@breakaway/react-tokens@10.0.1) (2018-12-06)
+
+
+
+
+**Note:** Version bump only for package @breakaway/react-tokens
+
 <a name="1.9.1"></a>
 ## [1.9.1](https://github.com/patternfly/patternfly-react/compare/@patternfly/react-tokens@1.9.0...@patternfly/react-tokens@1.9.1) (2018-11-28)
 
