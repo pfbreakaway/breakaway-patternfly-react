@@ -1,3 +1,10 @@
+# breakaway-patternfly4-react-lerna-root-v1.0.0 (2018-12-06)
+
+
+### Bug Fixes
+
+* **dev:** move root package away from root ([f056b89](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/f056b89))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
