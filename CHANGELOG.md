@@ -1,5 +1,9 @@
 
-## Unreleased (2018-12-06)
+## breakaway-patternfly4-react-lerna-root@10.0.3 (2018-12-06)
+
+#### :bug: Bug Fix
+* `patternfly-4`
+  * [#38](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/38) fix: root/core post semantic-release ([@jschuler](https://github.com/jschuler))
 
 #### :house: Internal
 * [#37](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/37) chore: switch to semantic release ([@jschuler](https://github.com/jschuler))
