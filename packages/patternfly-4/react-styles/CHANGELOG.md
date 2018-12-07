@@ -1,3 +1,10 @@
+# [@breakaway/react-styles-v10.0.2](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-styles@10.0.1...@breakaway/react-styles@10.0.2) (2018-12-07)
+
+
+### Bug Fixes
+
+* root/docs/styles/icons/dev-common ([00cf314](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/00cf314))
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
