@@ -1,3 +1,10 @@
+# [breakaway-patternfly4-react-lerna-root-v10.0.5](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@10.0.4...breakaway-patternfly4-react-lerna-root@10.0.5) (2018-12-07)
+
+
+### Bug Fixes
+
+* root/docs/styles/icons/dev-common ([00cf314](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/00cf314))
+
 # [breakaway-patternfly4-react-lerna-root-v10.0.4](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@10.0.3...breakaway-patternfly4-react-lerna-root@10.0.4) (2018-12-06)
 
 
