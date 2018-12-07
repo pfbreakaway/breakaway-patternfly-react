@@ -1,6 +1,7 @@
 const HOME_URL = 'https://github.com/semantic-release/semantic-release';
 const linkify = releaseInfo =>
   `${releaseInfo.url ? `[${releaseInfo.name}](${releaseInfo.url})` : `\`${releaseInfo.name}\``}`;
+const releaseInfos = releases.filter(release => Boolean(release.name));
 
 module.exports = {
   verifyConditions: [
