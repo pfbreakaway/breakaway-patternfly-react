@@ -1,4 +1,14 @@
 
+## @breakaway/react-core@10.0.7 (2018-12-07)
+
+#### :bug: Bug Fix
+* `patternfly-4`
+  * [#43](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/43) fix: debug pr comments ([@jschuler](https://github.com/jschuler))
+
+#### Committers: 1
+- Joachim ([@jschuler](https://github.com/jschuler))
+
+
 ## breakaway-patternfly4-react-lerna-root@10.0.6 (2018-12-07)
 
 #### :bug: Bug Fix
