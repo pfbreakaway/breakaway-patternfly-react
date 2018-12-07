@@ -4,11 +4,10 @@ const linkify = releaseInfo =>
 
 module.exports = (issue, releases, nextRelease) => {
   return {
-    verifyConditions: [
-      '@semantic-release/changelog',
-      '@semantic-release/npm',
-      '@semantic-release/git'
-    ],
+    verifyConditions: [],
+    verifyRelease: ['@semantic-release/changelog', '@semantic-release/npm', '@semantic-release/github']
+      .map(require)
+      .map(x => x.verifyConditions),
     prepare: [
       '@semantic-release/changelog',
       '@semantic-release/npm',
