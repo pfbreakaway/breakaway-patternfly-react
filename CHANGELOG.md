@@ -1,5 +1,15 @@
 
-## Unreleased (2018-12-07)
+## breakaway-patternfly4-react-lerna-root@10.0.6 (2018-12-07)
+
+#### :bug: Bug Fix
+* `patternfly-4`
+  * [#42](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/42) fix: should not announce github releases ([@jschuler](https://github.com/jschuler))
+
+#### Committers: 1
+- Joachim ([@jschuler](https://github.com/jschuler))
+
+
+## @breakaway/react-core@10.0.6 (2018-12-07)
 
 #### :bug: Bug Fix
 * `patternfly-4`
