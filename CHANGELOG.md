@@ -1,4 +1,14 @@
 
+## breakaway-patternfly4-react-lerna-root@10.0.5 (2018-12-07)
+
+#### :bug: Bug Fix
+* `patternfly-4`, `react-icons`
+  * [#41](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/41) fix: root/docs/styles/icons/dev-common ([@jschuler](https://github.com/jschuler))
+
+#### Committers: 1
+- Joachim ([@jschuler](https://github.com/jschuler))
+
+
 ## @breakaway/react-core@10.0.5 (2018-12-06)
 
 #### :bug: Bug Fix
