@@ -1,3 +1,10 @@
+# [@breakaway/react-core-v10.0.10](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@10.0.9...@breakaway/react-core@10.0.10) (2018-12-09)
+
+
+### Bug Fixes
+
+* core ([93c91e9](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/93c91e9))
+
 # [@breakaway/react-core-v10.0.5](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/@breakaway/react-core@10.0.4...@breakaway/react-core@10.0.5) (2018-12-06)
 
 
