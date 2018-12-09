@@ -3,6 +3,7 @@
 
 #### :bug: Bug Fix
 * `patternfly-4`
+  * [#48](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/48) fix: common/core ([@jschuler](https://github.com/jschuler))
   * [#47](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/47) fix: common/core ([@jschuler](https://github.com/jschuler))
 
 #### Committers: 1
