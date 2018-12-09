@@ -26,5 +26,12 @@ module.exports = {
     '@semantic-release/git'
   ],
   npmPublish: true,
-  successComment: false
+  successComment: `${
+    releases.length > 1
+      ? `:tada: This ${issue.pull_request ? 'PR is included' : 'issue has been resolved'} in version ${
+      nextRelease.version
+      } :tada:\n\nThe release is available on ${linkify(releases[0])}
+        Your **[semantic-release](${HOME_URL})** bot :package::rocket:`
+      : ''
+    }`
 };
