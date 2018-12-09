@@ -1,8 +1,21 @@
 
-## Unreleased (2018-12-09)
+## breakaway-patternfly4-react-lerna-root@10.0.7 (2018-12-09)
 
 #### :bug: Bug Fix
 * `patternfly-4`
+  * [#49](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/49) fix: ok ([@jschuler](https://github.com/jschuler))
+  * [#48](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/48) fix: common/core ([@jschuler](https://github.com/jschuler))
+  * [#47](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/47) fix: common/core ([@jschuler](https://github.com/jschuler))
+
+#### Committers: 1
+- Joachim ([@jschuler](https://github.com/jschuler))
+
+
+## @breakaway/react-core@10.0.11 (2018-12-09)
+
+#### :bug: Bug Fix
+* `patternfly-4`
+  * [#49](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/49) fix: ok ([@jschuler](https://github.com/jschuler))
   * [#48](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/48) fix: common/core ([@jschuler](https://github.com/jschuler))
   * [#47](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/47) fix: common/core ([@jschuler](https://github.com/jschuler))
 
