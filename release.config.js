@@ -14,19 +14,17 @@ successComment: `${
  }`
  */
 
-module.exports = (issue, releases, nextRelease) => {
-  return {
-    tagFormat: `${PACKAGE_NAME}@\${version}`,
-    verifyConditions: [],
-    verifyRelease: ['@semantic-release/changelog', '@semantic-release/npm', '@semantic-release/github']
-      .map(require)
-      .map(x => x.verifyConditions),
-    prepare: [
-      '@semantic-release/changelog',
-      '@semantic-release/npm',
-      '@semantic-release/git'
-    ],
-    npmPublish: true,
-    successComment: false
-  }
+module.exports = {
+  tagFormat: `${PACKAGE_NAME}@\${version}`,
+  verifyConditions: [],
+  verifyRelease: ['@semantic-release/changelog', '@semantic-release/npm', '@semantic-release/github']
+    .map(require)
+    .map(x => x.verifyConditions),
+  prepare: [
+    '@semantic-release/changelog',
+    '@semantic-release/npm',
+    '@semantic-release/git'
+  ],
+  npmPublish: true,
+  successComment: false
 };
