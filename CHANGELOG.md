@@ -1,5 +1,9 @@
 
-## Unreleased (2018-12-10)
+## Unreleased (2018-12-11)
+
+#### :bug: Bug Fix
+* `patternfly-4`, `react-icons`
+  * [#51](https://github.com/pfbreakaway/breakaway-patternfly-react/pull/51) Core ([@jschuler](https://github.com/jschuler))
 
 #### :house: Internal
 * `patternfly-4`
