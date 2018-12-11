@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-//1
+//2
 export const IconSize = {
   sm: 'sm',
   md: 'md',

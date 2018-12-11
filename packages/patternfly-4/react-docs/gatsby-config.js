@@ -1,4 +1,5 @@
 const { resolve } = require('path');
+// asd
 
 module.exports = {
   siteMetadata: {
