@@ -11,7 +11,5 @@ module.exports = {
     '@semantic-release/npm',
     '@semantic-release/git'
   ],
-  npmPublish: true,
-  successComment: true,
-  failComment: true
+  npmPublish: true
 };
