@@ -1,5 +1,5 @@
 
-## Unreleased (2018-12-11)
+## @breakaway/react-core@10.0.12 (2018-12-11)
 
 #### :bug: Bug Fix
 * `patternfly-4`, `react-icons`
