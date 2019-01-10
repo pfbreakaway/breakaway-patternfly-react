@@ -1,5 +1,5 @@
 /* eslint-disable global-require,import/no-dynamic-require */
-/** hello */
+/** change 1 */
 const glob = require('glob');
 const { dirname, resolve, join } = require('path');
 const { parse } = require('css');
