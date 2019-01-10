@@ -5,7 +5,7 @@ deploy:
   provider: script
   skip_cleanup: true
   script:
-    - yarn lerna exec --concurrency 1 "npx --no-install semantic-release -e semantic-release-monorepo" && node -e "require('semantic-release-monorepo-hooks').hookAfterAll()"
+    - yarn lerna exec --concurrency 1 "npx --no-install semantic-release -e semantic-release-monorepo --tag-format='${LERNA_PACKAGE_NAME}@\\${version}'" && node -e "require('semantic-release-monorepo-hooks').hookAfterAll()"
 env:
   global:
   - ENCRYPTION_LABEL: "b601314e09dc"

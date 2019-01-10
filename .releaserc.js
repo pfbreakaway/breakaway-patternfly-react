@@ -3,7 +3,6 @@ const output = hooks()
 
 module.exports = {
   branch: 'master',
-  tagFormat: '${output.package}@${version}',
   prepare: [
     '@semantic-release/changelog',
     '@semantic-release/npm',
