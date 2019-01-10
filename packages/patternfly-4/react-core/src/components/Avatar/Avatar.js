@@ -3,7 +3,7 @@ import styles from '@patternfly/patternfly-next/components/Avatar/avatar.css';
 import { css } from '@breakaway/react-styles';
 import PropTypes from 'prop-types';
 
-// change 2
+// change 3
 
 const propTypes = {
   /** Additional classes added to the Avatar. */
