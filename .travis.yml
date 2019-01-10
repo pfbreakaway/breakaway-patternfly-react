@@ -1,6 +1,11 @@
 language: node_js
 sudo: required
 cache: yarn
+deploy:
+  provider: script
+  skip_cleanup: true
+  script:
+    - yarn lerna exec --concurrency 1 "npx --no-install semantic-release -e semantic-release-monorepo" && node -e "require('semantic-release-monorepo-hooks').hookAfterAll()"
 env:
   global:
   - ENCRYPTION_LABEL: "b601314e09dc"
@@ -18,7 +23,7 @@ before_install:
 script:
 - yarn build
 after_success:
-- .travis/after_success.sh
+# - .travis/after_success.sh
 git:
   depth: 1
 branches:
