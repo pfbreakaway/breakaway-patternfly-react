@@ -1,3 +1,11 @@
+# [breakaway-patternfly4-react-lerna-root-v11.0.1](https://github.com/pfbreakaway/breakaway-patternfly-react.git/compare/breakaway-patternfly4-react-lerna-root@11.0.0...breakaway-patternfly4-react-lerna-root@11.0.1) (2019-01-11)
+
+
+### Bug Fixes
+
+* c11 ([524c4db](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/524c4db))
+* c12 ([f40043e](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/f40043e))
+
 # [breakaway-patternfly4-react-lerna-root-v11.0.0](https://github.com/pfbreakaway/breakaway-patternfly-react.git/compare/breakaway-patternfly4-react-lerna-root@10.0.7...breakaway-patternfly4-react-lerna-root@11.0.0) (2019-01-11)
 
 
