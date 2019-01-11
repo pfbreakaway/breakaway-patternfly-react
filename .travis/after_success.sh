@@ -12,5 +12,6 @@ if [ "${TRAVIS_REPO_SLUG}" == "${TRIGGER_REPO_SLUG}" -a "$TRAVIS_BRANCH" == "${T
   export GITHUB_AUTH="${GH_TOKEN}"
   export GH_TOKEN="${GH_TOKEN}"
   export GH_USER="${GH_USERNAME}"
-  npm run travis-deploy-once "npm run release_2"
+  yarn lerna exec --concurrency 1 "npx --no-install semantic-release -e semantic-release-monorepo" && node -e "require('semantic-release-monorepo-hooks').hookAfterAll()"
+  # npm run travis-deploy-once "npm run release_2"
 fi
