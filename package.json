@@ -86,6 +86,7 @@
     "lerna:publish": "lerna publish --yes",
     "lerna:changelog": "lerna-changelog --from=`git rev-list --max-parents=0 HEAD` > CHANGELOG.md && git add CHANGELOG.md && git commit -m 'chore(postrelease): changelog [skip ci]' && git push",
     "release": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo --tag-format='${LERNA_PACKAGE_NAME}@${version}' --debug",
+    "release_2": "lerna exec --concurrency 1 -- npx --no-install semantic-release -e semantic-release-monorepo && node -e -- require('semantic-release-monorepo-hooks').hookAfterAll()",
     "lint": "lerna run lint --parallel",
     "lint:fix": "lerna run lint:fix --parallel",
     "prettier": "prettier --write 'storybook/**/*.js' 'packages/**/*.js' 'scripts/**/*.js'",
