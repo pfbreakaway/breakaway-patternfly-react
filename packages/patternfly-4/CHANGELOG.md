@@ -1,3 +1,65 @@
+# [breakaway-patternfly4-react-lerna-root-v11.0.0](https://github.com/pfbreakaway/breakaway-patternfly-react.git/compare/breakaway-patternfly4-react-lerna-root@10.0.7...breakaway-patternfly4-react-lerna-root@11.0.0) (2019-01-11)
+
+
+### Bug Fixes
+
+* c10 ([b87a71a](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/b87a71a))
+* c9 ([f1d2e8e](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/f1d2e8e))
+* change 1 ([054c5ab](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/054c5ab))
+* change 2 ([5632be1](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/5632be1))
+* change 3 ([228b65b](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/228b65b))
+* change 4 ([26c519a](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/26c519a))
+* change 5 ([c433827](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/c433827))
+* change 6 ([2e9039d](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/2e9039d))
+* change 7 ([a376b1c](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/a376b1c))
+* change 8 ([e2a6854](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/e2a6854))
+* icons, core, docs ([f88562e](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/f88562e))
+
+
+### chore
+
+* **@breakaway/react-core:** release 1.0.0 [skip ci] ([815e91e](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/815e91e))
+
+
+### BREAKING CHANGES
+
+* **@breakaway/react-core:** in core ([1b2d672](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/1b2d672))
+* change ([5dede06](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/5dede06))
+* common/core ([19779cd](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/19779cd))
+* common/core ([d24b0bc](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/d24b0bc))
+* core ([a69621c](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/a69621c))
+* core ([97f1e87](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/97f1e87))
+* core ([5aaeab5](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/5aaeab5))
+* core ([099cb21](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/099cb21))
+* core ([93c91e9](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/93c91e9))
+* core ([06b8f57](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/06b8f57))
+* core ([73296de](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/73296de))
+* core and docs ([a65d7bb](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/a65d7bb))
+* debug pr comments ([db3ccd8](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/db3ccd8))
+* icons, core, docs ([f88562e](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/f88562e))
+* ok ([f1e12fd](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/f1e12fd))
+* root/core ([24fbe72](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/24fbe72))
+* root/core ([fc5c116](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/fc5c116))
+* **readme:** update readme spelling ([08af90a](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/08af90a))
+* root/core after subfolder ([3e907c1](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/3e907c1))
+* root/core post semantic-release ([aa5b25e](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/aa5b25e))
+* root/core post workspaces ([5f0f0d9](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/5f0f0d9))
+* should not announce github releases ([2116cb1](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/2116cb1))
+* test pr comment ([de13bcd](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/de13bcd))
+
+### chore
+
+* **release:** 6.1.5 [skip ci] ([304e191](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/304e191))
+
+### Features
+
+* **avatar:** not really ([a6582ba](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/a6582ba))
+* **core:** label ([7c61baf](https://github.com/pfbreakaway/breakaway-patternfly-react.git/commit/7c61baf))
+
+### BREAKING CHANGES
+
+* **release:** in core ([1b2d672](https://github.com/pfbreakaway/breakaway-patternfly-react/commit/1b2d672))
+
 # [breakaway-patternfly4-react-lerna-root-v10.0.5](https://github.com/pfbreakaway/breakaway-patternfly-react/compare/breakaway-patternfly4-react-lerna-root@10.0.4...breakaway-patternfly4-react-lerna-root@10.0.5) (2018-12-07)
 
 
