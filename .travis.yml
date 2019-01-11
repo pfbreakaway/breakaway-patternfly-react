@@ -23,7 +23,7 @@ before_install:
 script:
 - yarn build
 after_success:
-# - .travis/after_success.sh
+- .travis/after_success.sh
 git:
   depth: 1
 branches:
